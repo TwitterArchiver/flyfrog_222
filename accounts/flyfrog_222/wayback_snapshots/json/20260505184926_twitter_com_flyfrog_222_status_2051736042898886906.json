@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2051212117005701120",
+    "conversation_id": "2051736042898886906",
+    "created_at": "2026-05-05T18:49:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T19:49:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051736042898886906"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2051736042898886906",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我感觉太糟糕了，这样下去绝对会出事的。我的情绪翻上来时实在太过强烈，担心有一天真的会做出什么很冲动的事情，至少我现在不想变成那样，我也根本不想死。等暑假时我会自学dbt。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051212117005701120",
+        "conversation_id": "2051736042898886906",
+        "created_at": "2026-05-05T18:49:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T19:49:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051736042898886906"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051736042898886906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉太糟糕了，这样下去绝对会出事的。我的情绪翻上来时实在太过强烈，担心有一天真的会做出什么很冲动的事情，至少我现在不想变成那样，我也根本不想死。等暑假时我会自学dbt。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-04T08:10:29.000Z",
+        "description": "Do you wanna fly with me?",
+        "id": "2051212117005701120",
+        "name": "ffffx",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051213133826682880/IGtHMrhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 2,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 19
+        },
+        "username": "flyfrog_222",
+        "verified": false
+      }
+    ]
+  }
+}

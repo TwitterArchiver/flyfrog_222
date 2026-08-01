@@ -1,0 +1,116 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2051212117005701120",
+    "conversation_id": "2069471550970179678",
+    "created_at": "2026-06-23T17:24:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T18:24:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069471550970179678"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2069471550970179678",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实我现在很少磕药了 怎么说呢 这样的生活其实其实也很无聊。我已经差不多两年没吃过dxm了 因为我不喜欢吃愈美 吃过一次 全都吐出来了 不舒服。所以我现在好像这一次吃得太多 肚子不舒服 天呀…我吃了止吐药 希望不要吐了…大概以后就不会再吃了吧 加油吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051212117005701120",
+        "conversation_id": "2069471550970179678",
+        "created_at": "2026-06-23T17:24:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T18:24:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069471550970179678"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069471550970179678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我现在很少磕药了 怎么说呢 这样的生活其实其实也很无聊。我已经差不多两年没吃过dxm了 因为我不喜欢吃愈美 吃过一次 全都吐出来了 不舒服。所以我现在好像这一次吃得太多 肚子不舒服 天呀…我吃了止吐药 希望不要吐了…大概以后就不会再吃了吧 加油吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-04T08:10:29.000Z",
+        "description": "🖤🩶🤍💚🤍🩶🖤\n另一个我@Greenfish_111 @fishoutworld/画@woyaosleep444",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "Greenfish_111"
+              },
+              {
+                "end": 40,
+                "start": 27,
+                "username": "fishoutworld"
+              },
+              {
+                "end": 56,
+                "start": 42,
+                "username": "woyaosleep444"
+              }
+            ]
+          }
+        },
+        "id": "2051212117005701120",
+        "location": "Slient Hill",
+        "name": "ffffx",
+        "pinned_tweet_id": "2069288764808351825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051213133826682880/IGtHMrhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 15,
+          "like_count": 574,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 249
+        },
+        "url": "",
+        "username": "flyfrog_222",
+        "verified": false
+      }
+    ]
+  }
+}

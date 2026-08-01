@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2051212117005701120",
+    "conversation_id": "2080512181918150714",
+    "created_at": "2026-07-24T04:35:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T05:35:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080512181918150714"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2080512181918150714",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我发现我被录取到了一个很脑残很贵的专业而且我还是双非 感觉未来暗淡的我想直接上吊。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051212117005701120",
+        "conversation_id": "2080512181918150714",
+        "created_at": "2026-07-24T04:35:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T05:35:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080512181918150714"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080512181918150714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发现我被录取到了一个很脑残很贵的专业而且我还是双非 感觉未来暗淡的我想直接上吊。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-04T08:10:29.000Z",
+        "description": "另一个我@Greenfish_111 /画@woyaosleep444",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 4,
+                "username": "Greenfish_111"
+              },
+              {
+                "end": 35,
+                "start": 21,
+                "username": "woyaosleep444"
+              }
+            ]
+          }
+        },
+        "id": "2051212117005701120",
+        "location": "Slient Hill",
+        "name": "ffffx",
+        "pinned_tweet_id": "2069288764808351825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051213133826682880/IGtHMrhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 21,
+          "like_count": 699,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 308
+        },
+        "url": "",
+        "username": "flyfrog_222",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054040411786936320"
+      ]
+    },
+    "author_id": "2051212117005701120",
+    "conversation_id": "2054040418602680603",
+    "created_at": "2026-05-12T03:26:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T04:26:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054040418602680603"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 4,
+          "start": 0,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 9,
+          "start": 5,
+          "tag": "门槛哥"
+        },
+        {
+          "end": 13,
+          "start": 10,
+          "tag": "半绿"
+        },
+        {
+          "end": 17,
+          "start": 14,
+          "tag": "线下"
+        },
+        {
+          "end": 21,
+          "start": 18,
+          "tag": "非绿"
+        },
+        {
+          "end": 26,
+          "start": 22,
+          "tag": "江浙沪"
+        },
+        {
+          "end": 30,
+          "start": 27,
+          "tag": "上海"
+        },
+        {
+          "end": 34,
+          "start": 31,
+          "tag": "杭州"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YLKz2qrquy",
+          "end": 66,
+          "expanded_url": "https://x.com/flyfrog_222/status/2054040418602680603/photo/1",
+          "media_key": "3_2054040411786936320",
+          "start": 43,
+          "url": "https://t.co/YLKz2qrquy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054040418602680603",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#爸爸活 #门槛哥 #半绿 #线下 #非绿 #江浙沪 #上海 #杭州\n不要举报我了。 https://t.co/YLKz2qrquy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 868,
+        "media_key": "3_2054040411786936320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIFq3yrbgAAU7tD.jpg",
+        "width": 788
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054040411786936320"
+          ]
+        },
+        "author_id": "2051212117005701120",
+        "conversation_id": "2054040418602680603",
+        "created_at": "2026-05-12T03:26:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T04:26:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054040418602680603"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 9,
+              "start": 5,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 13,
+              "start": 10,
+              "tag": "半绿"
+            },
+            {
+              "end": 17,
+              "start": 14,
+              "tag": "线下"
+            },
+            {
+              "end": 21,
+              "start": 18,
+              "tag": "非绿"
+            },
+            {
+              "end": 26,
+              "start": 22,
+              "tag": "江浙沪"
+            },
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "上海"
+            },
+            {
+              "end": 34,
+              "start": 31,
+              "tag": "杭州"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YLKz2qrquy",
+              "end": 66,
+              "expanded_url": "https://x.com/flyfrog_222/status/2054040418602680603/photo/1",
+              "media_key": "3_2054040411786936320",
+              "start": 43,
+              "url": "https://t.co/YLKz2qrquy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054040418602680603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#爸爸活 #门槛哥 #半绿 #线下 #非绿 #江浙沪 #上海 #杭州\n不要举报我了。 https://t.co/YLKz2qrquy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-04T08:10:29.000Z",
+        "description": "Do you wanna fly with me?\n岁月静好中｜大号@Greenfish_111",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 34,
+                "username": "Greenfish_111"
+              }
+            ]
+          }
+        },
+        "id": "2051212117005701120",
+        "name": "ffffx",
+        "pinned_tweet_id": "2053804533445525703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051213133826682880/IGtHMrhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 1,
+          "like_count": 137,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 38
+        },
+        "username": "flyfrog_222",
+        "verified": false
+      }
+    ]
+  }
+}

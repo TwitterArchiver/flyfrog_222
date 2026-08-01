@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2051212117005701120",
+    "conversation_id": "2070800535238971810",
+    "created_at": "2026-06-27T09:24:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T10:24:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070800535238971810"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2070800535238971810",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实本人物欲特别低 给我钱我也不知道花在哪。只是想 有钱的话 万一宿舍生活受不了 还可以租房。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051212117005701120",
+        "conversation_id": "2070800535238971810",
+        "created_at": "2026-06-27T09:24:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T10:24:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070800535238971810"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070800535238971810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实本人物欲特别低 给我钱我也不知道花在哪。只是想 有钱的话 万一宿舍生活受不了 还可以租房。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-04T08:10:29.000Z",
+        "description": "🖤🩶🤍💚🤍🩶🖤\n另一个我@Greenfish_111 /画@woyaosleep444",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "Greenfish_111"
+              },
+              {
+                "end": 43,
+                "start": 29,
+                "username": "woyaosleep444"
+              }
+            ]
+          }
+        },
+        "id": "2051212117005701120",
+        "location": "Slient Hill",
+        "name": "ffffx",
+        "pinned_tweet_id": "2069288764808351825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051213133826682880/IGtHMrhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 15,
+          "like_count": 595,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 251
+        },
+        "url": "",
+        "username": "flyfrog_222",
+        "verified": false
+      }
+    ]
+  }
+}

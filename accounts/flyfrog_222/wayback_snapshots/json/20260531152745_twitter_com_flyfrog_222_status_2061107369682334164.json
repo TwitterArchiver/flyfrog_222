@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2051212117005701120",
+    "conversation_id": "2061107369682334164",
+    "created_at": "2026-05-31T15:27:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T16:27:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061107369682334164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1806835463757406208",
+          "start": 3,
+          "username": "ykkmiguel2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061107369682334164",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2343
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060890080575696990",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ykkmiguel2: sinto q eu nao acertei em NENHUMA decisão dos meus 13 aos 18 anos"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051212117005701120",
+        "conversation_id": "2061107369682334164",
+        "created_at": "2026-05-31T15:27:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T16:27:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061107369682334164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1806835463757406208",
+              "start": 3,
+              "username": "ykkmiguel2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061107369682334164",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2343
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060890080575696990",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ykkmiguel2: sinto q eu nao acertei em NENHUMA decisão dos meus 13 aos 18 anos"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806835463757406208",
+        "conversation_id": "2060890080575696990",
+        "created_at": "2026-05-31T01:04:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T02:04:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060890080575696990"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060890080575696990",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 202,
+          "impression_count": 92773,
+          "like_count": 9472,
+          "quote_count": 125,
+          "reply_count": 68,
+          "retweet_count": 2343
+        },
+        "reply_settings": "everyone",
+        "text": "sinto q eu nao acertei em NENHUMA decisão dos meus 13 aos 18 anos"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-04T08:10:29.000Z",
+        "description": "Do you wanna fly with me?\n这个号用来发屁话的\n另一个我@Greenfish_111",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Greenfish_111"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fisssssh",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fisssssh",
+                "start": 0,
+                "url": "https://t.co/7ZUh49JGtP"
+              }
+            ]
+          }
+        },
+        "id": "2051212117005701120",
+        "location": "🚪888/1888/18888",
+        "name": "ffffx",
+        "pinned_tweet_id": "2058823326735409154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051213133826682880/IGtHMrhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 12,
+          "like_count": 323,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 122
+        },
+        "url": "https://t.co/7ZUh49JGtP",
+        "username": "flyfrog_222",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-28T23:42:07.000Z",
+        "description": "sou maconheiro jogo minecraft fumo cigarro bato punheta beijo na boca",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ykkmiguel",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/ykkmiguel",
+                "start": 0,
+                "url": "https://t.co/utcLcQFITz"
+              }
+            ]
+          }
+        },
+        "id": "1806835463757406208",
+        "location": "Rio de Janeiro, Brasil",
+        "name": "Miguel",
+        "pinned_tweet_id": "1992675281883242802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005367155986923520/1eHhhpHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33300,
+          "following_count": 888,
+          "like_count": 40287,
+          "listed_count": 11,
+          "media_count": 2378,
+          "tweet_count": 15915
+        },
+        "url": "https://t.co/utcLcQFITz",
+        "username": "ykkmiguel2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2051212117005701120",
+    "conversation_id": "2057839354618531917",
+    "created_at": "2026-05-22T17:50:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T18:50:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057881833682169963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1575823641920798721",
+          "start": 0,
+          "username": "youyulianmian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057881833682169963",
+    "in_reply_to_user_id": "1575823641920798721",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057873122880258383",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youyulianmian 对的对的……我也是明明不想笑但就是一直笑。感觉特别尴尬很难受"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051212117005701120",
+        "conversation_id": "2057839354618531917",
+        "created_at": "2026-05-22T17:50:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T18:50:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057881833682169963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1575823641920798721",
+              "start": 0,
+              "username": "youyulianmian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057881833682169963",
+        "in_reply_to_user_id": "1575823641920798721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057873122880258383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youyulianmian 对的对的……我也是明明不想笑但就是一直笑。感觉特别尴尬很难受"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1575823641920798721",
+        "conversation_id": "2057839354618531917",
+        "created_at": "2026-05-22T17:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T18:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057873122880258383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2051212117005701120",
+              "start": 0,
+              "username": "flyfrog_222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057873122880258383",
+        "in_reply_to_user_id": "2051212117005701120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057839354618531917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@flyfrog_222 小时候一尴尬就笑导致形成了条件反射…有时候明明很难过，但是一想到旁边有人就感觉好尴尬会笑出来 回过神来又觉得这样好丑陋 自己的抑郁忧伤情感好像是装出来的一样能随着旁边有没有人调节更崩溃了。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-04T08:10:29.000Z",
+        "description": "Do you wanna fly with me?\n🚪888\n另一个我@Greenfish_111",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 35,
+                "username": "Greenfish_111"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fisssssh",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fisssssh",
+                "start": 0,
+                "url": "https://t.co/7ZUh49JGtP"
+              }
+            ]
+          }
+        },
+        "id": "2051212117005701120",
+        "name": "ffffx",
+        "pinned_tweet_id": "2055811096771240398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051213133826682880/IGtHMrhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 11,
+          "like_count": 247,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 85
+        },
+        "url": "https://t.co/7ZUh49JGtP",
+        "username": "flyfrog_222",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-30T12:23:42.000Z",
+        "description": "",
+        "id": "1575823641920798721",
+        "location": "骂我的坏人你麻薯掉了",
+        "name": "CUloveMonly",
+        "pinned_tweet_id": "1923984351798362350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047109073469120513/qcL_q-3b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 135,
+          "like_count": 4698,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 670
+        },
+        "username": "youyulianmian",
+        "verified": false
+      }
+    ]
+  }
+}

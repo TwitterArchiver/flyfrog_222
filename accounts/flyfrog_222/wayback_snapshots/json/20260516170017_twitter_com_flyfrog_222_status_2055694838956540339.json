@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2051212117005701120",
+    "conversation_id": "2055694838956540339",
+    "created_at": "2026-05-16T17:00:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T18:00:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055694838956540339"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/flyfrog_222/st…",
+          "end": 85,
+          "expanded_url": "https://twitter.com/flyfrog_222/status/2055694546793845047",
+          "start": 62,
+          "url": "https://t.co/oPXtPn4il7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055694838956540339",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055694546793845047",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我当时全抠出来放在保健品罐子里塞床底但还是被发现了。不过也有一点好处就是要是我真的一直吃右美到现在 我大概已经是一个傻子了 https://t.co/oPXtPn4il7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051212117005701120",
+        "conversation_id": "2055694838956540339",
+        "created_at": "2026-05-16T17:00:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T18:00:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055694838956540339"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/flyfrog_222/st…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/flyfrog_222/status/2055694546793845047",
+              "start": 62,
+              "url": "https://t.co/oPXtPn4il7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055694838956540339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055694546793845047",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我当时全抠出来放在保健品罐子里塞床底但还是被发现了。不过也有一点好处就是要是我真的一直吃右美到现在 我大概已经是一个傻子了 https://t.co/oPXtPn4il7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051212117005701120",
+        "conversation_id": "2055694546793845047",
+        "created_at": "2026-05-16T16:59:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T17:59:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055694546793845047"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055694546793845047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "额如果当时的一百多盒右美沙芬 没有被我爸妈收缴扔掉的话 我现在应该是一个富豪。可惜了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-04T08:10:29.000Z",
+        "description": "Do you wanna fly with me?\n🚪888支持usdt付款\n此号大概是预备用来下🌊/大号@Greenfish_111",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 53,
+                "username": "Greenfish_111"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fisssssh",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fisssssh",
+                "start": 0,
+                "url": "https://t.co/7ZUh49JGtP"
+              }
+            ]
+          }
+        },
+        "id": "2051212117005701120",
+        "name": "ffffx",
+        "pinned_tweet_id": "2054134609064169686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051213133826682880/IGtHMrhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 1,
+          "like_count": 178,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 56
+        },
+        "url": "https://t.co/7ZUh49JGtP",
+        "username": "flyfrog_222",
+        "verified": false
+      }
+    ]
+  }
+}

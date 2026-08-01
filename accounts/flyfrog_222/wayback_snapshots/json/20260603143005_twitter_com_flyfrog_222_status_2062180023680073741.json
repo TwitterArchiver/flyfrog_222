@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2051212117005701120",
+    "conversation_id": "2062180023680073741",
+    "created_at": "2026-06-03T14:30:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T15:30:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062180023680073741"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/evilkittyyy_/s…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/evilkittyyy_/status/2061628410661912821",
+          "start": 9,
+          "url": "https://t.co/OppETdxtno"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062180023680073741",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061628410661912821",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "完全是我的未来… https://t.co/OppETdxtno"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051212117005701120",
+        "conversation_id": "2062180023680073741",
+        "created_at": "2026-06-03T14:30:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T15:30:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062180023680073741"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/evilkittyyy_/s…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/evilkittyyy_/status/2061628410661912821",
+              "start": 9,
+              "url": "https://t.co/OppETdxtno"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062180023680073741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061628410661912821",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "完全是我的未来… https://t.co/OppETdxtno"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832637395331682304",
+        "conversation_id": "2061628410661912821",
+        "created_at": "2026-06-02T01:58:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T02:58:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061628410661912821"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061628410661912821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 99,
+          "impression_count": 58043,
+          "like_count": 1812,
+          "quote_count": 32,
+          "reply_count": 410,
+          "retweet_count": 282
+        },
+        "reply_settings": "everyone",
+        "text": "我特别想谈一段那种两个人都干净又纯粹着相爱的恋爱 没有人是坏种 没有博弈和算计没有什么聊骚出轨嫖娼的烂事 也不用去网上搜索学习男女相处技巧 两个人认识 吸引相爱 拉着手走过春夏秋冬 没事去草地上晒晒太阳 逛逛超市 傍晚在公园河边散散步 睡觉前会捧着对方的脸认真地说你好可爱我很爱你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-04T08:10:29.000Z",
+        "description": "Do you wanna fly with me?\n我的日常。\n另一个我@Greenfish_111",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 36,
+                "username": "Greenfish_111"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fisssssh",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fisssssh",
+                "start": 0,
+                "url": "https://t.co/7ZUh49JGtP"
+              }
+            ]
+          }
+        },
+        "id": "2051212117005701120",
+        "location": "Slient Hill",
+        "name": "ffffx",
+        "pinned_tweet_id": "2058823326735409154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051213133826682880/IGtHMrhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 12,
+          "like_count": 359,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 131
+        },
+        "url": "https://t.co/7ZUh49JGtP",
+        "username": "flyfrog_222",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-08T04:29:51.000Z",
+        "description": "",
+        "id": "1832637395331682304",
+        "name": "妹宝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002113441780097024/1bIqUFH0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3793,
+          "following_count": 20,
+          "like_count": 1006,
+          "listed_count": 3,
+          "media_count": 76,
+          "tweet_count": 1301
+        },
+        "username": "Evilkittyyy_",
+        "verified": false
+      }
+    ]
+  }
+}

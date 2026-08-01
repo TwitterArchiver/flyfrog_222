@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058927140809412608"
+      ]
+    },
+    "author_id": "2051212117005701120",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2058927148510105753",
+    "created_at": "2026-05-25T15:04:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T16:04:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058927148510105753"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QoUiCLOJh8",
+          "end": 162,
+          "expanded_url": "https://x.com/flyfrog_222/status/2058927148510105753/photo/1",
+          "media_key": "3_2058927140809412608",
+          "start": 139,
+          "url": "https://t.co/QoUiCLOJh8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058927148510105753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我当时一开始建这个🍠号然后随手一画 但这条莫名其妙爆了。我当时很开心随后特别焦虑因为后面限流特别严重 然后我越来越焦虑我反复分析这张到底画的好在哪里试图模仿这种风格 但我太焦虑我画的一点也不开心也没进步。然后我干脆就弃号跑路不发了。这下舒服了 爱画啥画啥吧。不过最近也没画画。 https://t.co/QoUiCLOJh8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 194,
+        "media_key": "3_2058927140809412608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJLHU25bEAAODIr.jpg",
+        "width": 410
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058927140809412608"
+          ]
+        },
+        "author_id": "2051212117005701120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058927148510105753",
+        "created_at": "2026-05-25T15:04:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T16:04:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058927148510105753"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QoUiCLOJh8",
+              "end": 162,
+              "expanded_url": "https://x.com/flyfrog_222/status/2058927148510105753/photo/1",
+              "media_key": "3_2058927140809412608",
+              "start": 139,
+              "url": "https://t.co/QoUiCLOJh8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058927148510105753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我当时一开始建这个🍠号然后随手一画 但这条莫名其妙爆了。我当时很开心随后特别焦虑因为后面限流特别严重 然后我越来越焦虑我反复分析这张到底画的好在哪里试图模仿这种风格 但我太焦虑我画的一点也不开心也没进步。然后我干脆就弃号跑路不发了。这下舒服了 爱画啥画啥吧。不过最近也没画画。 https://t.co/QoUiCLOJh8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-04T08:10:29.000Z",
+        "description": "Do you wanna fly with me?\n这个号用来发屁话和准备下🌊的\n另一个我@Greenfish_111",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 45,
+                "username": "Greenfish_111"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fisssssh",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fisssssh",
+                "start": 0,
+                "url": "https://t.co/7ZUh49JGtP"
+              }
+            ]
+          }
+        },
+        "id": "2051212117005701120",
+        "location": "🚪888/1888/18888",
+        "name": "ffffx",
+        "pinned_tweet_id": "2058823326735409154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051213133826682880/IGtHMrhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 12,
+          "like_count": 264,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 111
+        },
+        "url": "https://t.co/7ZUh49JGtP",
+        "username": "flyfrog_222",
+        "verified": false
+      }
+    ]
+  }
+}

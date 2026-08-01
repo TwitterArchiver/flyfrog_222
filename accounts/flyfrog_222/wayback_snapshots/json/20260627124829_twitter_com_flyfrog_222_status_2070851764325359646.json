@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2051212117005701120",
+    "conversation_id": "2070851764325359646",
+    "created_at": "2026-06-27T12:48:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T13:48:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070851764325359646"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hihihi69jot/st…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/hihihi69jot/status/2070785102217650382",
+          "start": 7,
+          "url": "https://t.co/tIVgovbAMt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070851764325359646",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070785102217650382",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我婚后生活： https://t.co/tIVgovbAMt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 381,
+        "media_key": "3_2070785084400254976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLzoEBHawAAOPBf.jpg",
+        "width": 512
+      },
+      {
+        "height": 312,
+        "media_key": "3_2070785084387684352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLzoEBEa8AAyjHD.jpg",
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051212117005701120",
+        "conversation_id": "2070851764325359646",
+        "created_at": "2026-06-27T12:48:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T13:48:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070851764325359646"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hihihi69jot/st…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/hihihi69jot/status/2070785102217650382",
+              "start": 7,
+              "url": "https://t.co/tIVgovbAMt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070851764325359646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070785102217650382",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我婚后生活： https://t.co/tIVgovbAMt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070785084400254976",
+            "3_2070785084387684352"
+          ]
+        },
+        "author_id": "1532047573695209472",
+        "conversation_id": "2070785102217650382",
+        "created_at": "2026-06-27T08:23:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T09:23:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070785102217650382"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AJxUsbs0Ut",
+              "end": 193,
+              "expanded_url": "https://x.com/hihihi69jot/status/2070785102217650382/photo/1",
+              "media_key": "3_2070785084400254976",
+              "start": 170,
+              "url": "https://t.co/AJxUsbs0Ut"
+            },
+            {
+              "display_url": "pic.x.com/AJxUsbs0Ut",
+              "end": 193,
+              "expanded_url": "https://x.com/hihihi69jot/status/2070785102217650382/photo/1",
+              "media_key": "3_2070785084387684352",
+              "start": 170,
+              "url": "https://t.co/AJxUsbs0Ut"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070785102217650382",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {},
+          "text": "성범죄자만 골라서 살ㅎH한 부부라는데\n존나 기개가 미쳤음\n이런부부는 응원할래\n내한좀제발‼️‼️‼️\n\n>>살인죄로 재판을 받기 시작한 부부는 서로를 사랑스럽게 바라보며 키스를 하고 밝게 웃는 등, 여타 살인범들과는 다른 모습을 보여 주위를 놀라게 했다. \n  \n아내 크리스틴은 체포 당시 수갑이 채워진 상태로 경찰차로 향하는 길에서 “소아 성애자를 죽인 그 날이 내 생애 최고의 날”이라며 “마땅히 해야 할 일을 했을 뿐”이라고 말했다. \n \n뿐만 아니라 부부는 이구동성으로 “이미 다음 (성범죄자)타깃을 정해놓은 상태였다”며 “만약 체포되지 않았다면 다음 날 살해했을 것”이라고 밝혀 경찰들마저 혀를 내두르게 했다. <<"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 510,
+          "impression_count": 712225,
+          "like_count": 11896,
+          "quote_count": 226,
+          "reply_count": 44,
+          "retweet_count": 1103
+        },
+        "reply_settings": "everyone",
+        "text": "성범죄자만 골라서 살ㅎH한 부부라는데\n존나 기개가 미쳤음\n이런부부는 응원할래\n내한좀제발‼️‼️‼️\n\n&gt;&gt;살인죄로 재판을 받기 시작한 부부는 서로를 사랑스럽게 바라보며 키스를 하고 밝게 웃는 등, 여타 살인범들과는 다른 모습을 보여 주위를 놀라게 했다. \n  \n아내 크리스틴은 체포 당시 수갑이 https://t.co/AJxUsbs0Ut"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-04T08:10:29.000Z",
+        "description": "🖤🩶🤍💚🤍🩶🖤\n另一个我@Greenfish_111 /画@woyaosleep444",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "Greenfish_111"
+              },
+              {
+                "end": 43,
+                "start": 29,
+                "username": "woyaosleep444"
+              }
+            ]
+          }
+        },
+        "id": "2051212117005701120",
+        "location": "Slient Hill",
+        "name": "ffffx",
+        "pinned_tweet_id": "2069288764808351825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051213133826682880/IGtHMrhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 15,
+          "like_count": 598,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 253
+        },
+        "url": "",
+        "username": "flyfrog_222",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-01T17:13:13.000Z",
+        "description": "일상 | 잡담 | 직장인 | 수제트 하이라이트\n자가있는 비혼여성 | 협업 DM💌 | 비팔알람❌",
+        "id": "1532047573695209472",
+        "name": "두존늙크크",
+        "pinned_tweet_id": "2044882396609445963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044877887086673920/v16SP8TE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3880,
+          "following_count": 2063,
+          "like_count": 42702,
+          "listed_count": 32,
+          "media_count": 770,
+          "tweet_count": 48403
+        },
+        "url": "",
+        "username": "hihihi69jot",
+        "verified": true
+      }
+    ]
+  }
+}

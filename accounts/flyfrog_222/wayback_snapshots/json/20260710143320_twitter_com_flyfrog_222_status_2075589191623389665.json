@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2051212117005701120",
+    "conversation_id": "2075589191623389665",
+    "created_at": "2026-07-10T14:33:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T15:33:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075589191623389665"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2075589191623389665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我准备要去旅游了哦呵呵。不知道西北哪里好玩感觉每个地方都隔得好远。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051212117005701120",
+        "conversation_id": "2075589191623389665",
+        "created_at": "2026-07-10T14:33:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T15:33:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075589191623389665"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075589191623389665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我准备要去旅游了哦呵呵。不知道西北哪里好玩感觉每个地方都隔得好远。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-04T08:10:29.000Z",
+        "description": "我想变得像你一样\n此号被shadow ban了\n另一个我@Greenfish_111 /画@woyaosleep444",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 28,
+                "username": "Greenfish_111"
+              },
+              {
+                "end": 59,
+                "start": 45,
+                "username": "woyaosleep444"
+              }
+            ]
+          }
+        },
+        "id": "2051212117005701120",
+        "location": "Slient Hill",
+        "name": "ffffx",
+        "pinned_tweet_id": "2069288764808351825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051213133826682880/IGtHMrhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 18,
+          "like_count": 679,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 303
+        },
+        "url": "",
+        "username": "flyfrog_222",
+        "verified": false
+      }
+    ]
+  }
+}

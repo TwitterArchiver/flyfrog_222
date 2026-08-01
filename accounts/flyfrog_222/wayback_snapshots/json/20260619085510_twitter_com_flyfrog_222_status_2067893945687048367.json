@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067893939349467136"
+      ]
+    },
+    "author_id": "2051212117005701120",
+    "conversation_id": "2067893945687048367",
+    "created_at": "2026-06-19T08:55:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T09:55:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067893945687048367"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/taV7LV2svV",
+          "end": 42,
+          "expanded_url": "https://x.com/flyfrog_222/status/2067893945687048367/photo/1",
+          "media_key": "3_2067893939349467136",
+          "start": 19,
+          "url": "https://t.co/taV7LV2svV"
+        },
+        {
+          "display_url": "x.com/flyfrog_222/st…",
+          "end": 66,
+          "expanded_url": "https://twitter.com/flyfrog_222/status/2067225305518145555",
+          "start": 43,
+          "url": "https://t.co/wbc7WLQax4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067893945687048367",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067225305518145555",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个赞阅比我感觉还挺不错的。开心了呀 https://t.co/taV7LV2svV https://t.co/wbc7WLQax4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 514,
+        "media_key": "3_2067893939349467136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLKilOgbsAAOFNI.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2067225297746051072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBCdKbawAAoFM5.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067893939349467136"
+          ]
+        },
+        "author_id": "2051212117005701120",
+        "conversation_id": "2067893945687048367",
+        "created_at": "2026-06-19T08:55:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T09:55:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067893945687048367"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/taV7LV2svV",
+              "end": 42,
+              "expanded_url": "https://x.com/flyfrog_222/status/2067893945687048367/photo/1",
+              "media_key": "3_2067893939349467136",
+              "start": 19,
+              "url": "https://t.co/taV7LV2svV"
+            },
+            {
+              "display_url": "x.com/flyfrog_222/st…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/flyfrog_222/status/2067225305518145555",
+              "start": 43,
+              "url": "https://t.co/wbc7WLQax4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067893945687048367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067225305518145555",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个赞阅比我感觉还挺不错的。开心了呀 https://t.co/taV7LV2svV https://t.co/wbc7WLQax4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067225297746051072"
+          ]
+        },
+        "author_id": "2051212117005701120",
+        "conversation_id": "2067225305518145555",
+        "created_at": "2026-06-17T12:38:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T13:38:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067225305518145555"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZTBwK3oY4F",
+              "end": 37,
+              "expanded_url": "https://x.com/flyfrog_222/status/2067225305518145555/photo/1",
+              "media_key": "3_2067225297746051072",
+              "start": 14,
+              "url": "https://t.co/ZTBwK3oY4F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067225305518145555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这张画的好慢而且成图丑哭了 https://t.co/ZTBwK3oY4F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-04T08:10:29.000Z",
+        "description": "只是当时已惘然\n另一个我@Greenfish_111",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "Greenfish_111"
+              }
+            ]
+          }
+        },
+        "id": "2051212117005701120",
+        "location": "Slient Hill",
+        "name": "ffffx",
+        "pinned_tweet_id": "2062209536468090888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051213133826682880/IGtHMrhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 14,
+          "like_count": 539,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 211
+        },
+        "url": "",
+        "username": "flyfrog_222",
+        "verified": false
+      }
+    ]
+  }
+}

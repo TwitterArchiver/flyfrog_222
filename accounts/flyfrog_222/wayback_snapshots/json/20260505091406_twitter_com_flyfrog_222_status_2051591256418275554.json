@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2051212117005701120",
+    "conversation_id": "2051228665321832812",
+    "created_at": "2026-05-05T09:14:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T10:14:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051591256418275554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1983470834644828160",
+          "start": 0,
+          "username": "ssamahskt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051591256418275554",
+    "in_reply_to_user_id": "1983470834644828160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051283978406265169",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ssamahskt 最近没空，而且可能比较贵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051212117005701120",
+        "conversation_id": "2051228665321832812",
+        "created_at": "2026-05-05T09:14:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T10:14:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051591256418275554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1983470834644828160",
+              "start": 0,
+              "username": "ssamahskt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051591256418275554",
+        "in_reply_to_user_id": "1983470834644828160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051283978406265169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ssamahskt 最近没空，而且可能比较贵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983470834644828160",
+        "conversation_id": "2051228665321832812",
+        "created_at": "2026-05-04T12:53:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T13:53:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051283978406265169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2051212117005701120",
+              "start": 0,
+              "username": "flyfrog_222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051283978406265169",
+        "in_reply_to_user_id": "2051212117005701120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051228665321832812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@flyfrog_222 认真的话可以简单聊聊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-04T08:10:29.000Z",
+        "description": "Do you wanna fly with me?",
+        "id": "2051212117005701120",
+        "name": "ffffx",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051213133826682880/IGtHMrhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 3,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "username": "flyfrog_222",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-29T09:48:02.000Z",
+        "description": "",
+        "id": "1983470834644828160",
+        "name": "Goodbyedays",
+        "pinned_tweet_id": "2008169987010392340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983470964651225088/9zzWryLU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 2,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 5
+        },
+        "username": "ssamahskt",
+        "verified": false
+      }
+    ]
+  }
+}

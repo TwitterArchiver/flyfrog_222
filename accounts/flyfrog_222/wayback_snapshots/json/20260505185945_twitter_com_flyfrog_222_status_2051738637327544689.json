@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2051212117005701120",
+    "conversation_id": "2051738637327544689",
+    "created_at": "2026-05-05T18:59:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T19:59:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051738637327544689"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2051738637327544689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有时候我自己都不知道在做什么。\n也不是这个意思，\n大概就是，我知道我在做什么，但我其实也不懂为什么要这么做。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051212117005701120",
+        "conversation_id": "2051738637327544689",
+        "created_at": "2026-05-05T18:59:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T19:59:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051738637327544689"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051738637327544689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有时候我自己都不知道在做什么。\n也不是这个意思，\n大概就是，我知道我在做什么，但我其实也不懂为什么要这么做。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-04T08:10:29.000Z",
+        "description": "Do you wanna fly with me?",
+        "id": "2051212117005701120",
+        "name": "ffffx",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051213133826682880/IGtHMrhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 2,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 19
+        },
+        "username": "flyfrog_222",
+        "verified": false
+      }
+    ]
+  }
+}

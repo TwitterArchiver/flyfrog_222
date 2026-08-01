@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2051212117005701120",
+    "conversation_id": "2064555881065517258",
+    "created_at": "2026-06-10T03:50:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T04:50:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064555881065517258"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/greenfish_111/…",
+          "end": 86,
+          "expanded_url": "https://twitter.com/greenfish_111/status/2064554014017229245",
+          "start": 63,
+          "url": "https://t.co/MLsAC9czDF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064555881065517258",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064554014017229245",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "天呐 为什么我会活成这个样子。这个暑假我也得在家里闭门不出吗。我的窗户被锁了跳不了楼 上吊也没有合适的位置。我不知道还能咋办 https://t.co/MLsAC9czDF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051212117005701120",
+        "conversation_id": "2064555881065517258",
+        "created_at": "2026-06-10T03:50:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T04:50:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064555881065517258"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/greenfish_111/…",
+              "end": 86,
+              "expanded_url": "https://twitter.com/greenfish_111/status/2064554014017229245",
+              "start": 63,
+              "url": "https://t.co/MLsAC9czDF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064555881065517258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064554014017229245",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "天呐 为什么我会活成这个样子。这个暑假我也得在家里闭门不出吗。我的窗户被锁了跳不了楼 上吊也没有合适的位置。我不知道还能咋办 https://t.co/MLsAC9czDF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1244543552652054528",
+        "conversation_id": "2064554014017229245",
+        "created_at": "2026-06-10T03:43:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T04:43:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064554014017229245"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064554014017229245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一直不被允许单独出门 高考结束想出去玩 也不同意 给出的理由竟是怕我被拐卖 被杀害。\n我快20岁了依然无法单独出门 几年前跟朋友出去玩因为没及时回消息就给朋友和酒店打电话 未成年时离家出走被报警威胁回家\n回过头来看我已经两年几乎没有什么现实社交 我恨别人拥有青春而我的青春以这样的方式浪费了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-04T08:10:29.000Z",
+        "description": "Do you wanna fly with me?\n我的日常。\n另一个我@Greenfish_111",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 36,
+                "username": "Greenfish_111"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fisssssh",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fisssssh",
+                "start": 0,
+                "url": "https://t.co/7ZUh49JGtP"
+              }
+            ]
+          }
+        },
+        "id": "2051212117005701120",
+        "location": "Slient Hill",
+        "name": "ffffx",
+        "pinned_tweet_id": "2062209536468090888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051213133826682880/IGtHMrhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 12,
+          "like_count": 449,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 164
+        },
+        "url": "https://t.co/7ZUh49JGtP",
+        "username": "flyfrog_222",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-30T08:34:48.000Z",
+        "description": "糖在风中无力地裂开\nbpd/日常号@flyfrog_222",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "flyfrog_222"
+              }
+            ]
+          }
+        },
+        "id": "1244543552652054528",
+        "location": "Silent Hill    ",
+        "name": "冰冷電子魚",
+        "pinned_tweet_id": "2047987551819194768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872220255705333760/XVl2yIEq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4984,
+          "following_count": 539,
+          "like_count": 13228,
+          "listed_count": 8,
+          "media_count": 1073,
+          "tweet_count": 14149
+        },
+        "username": "Greenfish_111",
+        "verified": false
+      }
+    ]
+  }
+}

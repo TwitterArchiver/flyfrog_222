@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2051212117005701120",
+    "conversation_id": "2067866811157364763",
+    "created_at": "2026-06-19T07:07:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T08:07:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067866811157364763"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shannasparkleo…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/shannasparkleof/status/2067789232752427511",
+          "start": 27,
+          "url": "https://t.co/C4qowy60FX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067866811157364763",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067789232752427511",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的天这也太神秘性感了 希望我未来老公也这么打扮吧。 https://t.co/C4qowy60FX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067789226993668096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLJDWKlWUAAdFnl.jpg",
+        "width": 1389
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051212117005701120",
+        "conversation_id": "2067866811157364763",
+        "created_at": "2026-06-19T07:07:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T08:07:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067866811157364763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shannasparkleo…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/shannasparkleof/status/2067789232752427511",
+              "start": 27,
+              "url": "https://t.co/C4qowy60FX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067866811157364763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067789232752427511",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的天这也太神秘性感了 希望我未来老公也这么打扮吧。 https://t.co/C4qowy60FX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067789226993668096"
+          ]
+        },
+        "author_id": "733969720827740160",
+        "conversation_id": "2067789232752427511",
+        "created_at": "2026-06-19T01:59:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T02:59:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067789232752427511"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G5NK2he3g8",
+              "end": 197,
+              "expanded_url": "https://x.com/shannasparkleof/status/2067789232752427511/photo/1",
+              "media_key": "3_2067789226993668096",
+              "start": 174,
+              "url": "https://t.co/G5NK2he3g8"
+            },
+            {
+              "display_url": "x.com/shannasparkleo…",
+              "end": 221,
+              "expanded_url": "https://twitter.com/shannasparkleof/status/2067675161063538883",
+              "start": 198,
+              "url": "https://t.co/p4aPItJFOc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067789232752427511",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 174,
+          "impression_count": 81857,
+          "like_count": 3839,
+          "quote_count": 80,
+          "reply_count": 89,
+          "retweet_count": 465
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067675161063538883",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Merci pour vos nombreux rappels sous ma dernière publication mon homme est très obéissant et craint Allah… Il a bien couvert sa awra Baraka Allahu fikoum Al hamdoulilah 🤲🏻❤️ https://t.co/G5NK2he3g8 https://t.co/p4aPItJFOc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-04T08:10:29.000Z",
+        "description": "只是当时已惘然\n另一个我@Greenfish_111",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "Greenfish_111"
+              }
+            ]
+          }
+        },
+        "id": "2051212117005701120",
+        "location": "Slient Hill",
+        "name": "ffffx",
+        "pinned_tweet_id": "2062209536468090888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051213133826682880/IGtHMrhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 14,
+          "like_count": 528,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 209
+        },
+        "url": "",
+        "username": "flyfrog_222",
+        "verified": false
+      },
+      {
+        "created_at": "2016-05-21T10:36:32.000Z",
+        "description": "🫰🏻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/shannasparkle",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/shannasparkle",
+                "start": 0,
+                "url": "https://t.co/bmI4bOef90"
+              }
+            ]
+          }
+        },
+        "id": "733969720827740160",
+        "name": "Shanna✨",
+        "pinned_tweet_id": "2067675161063538883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067675276981444608/BtvD39BJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28335,
+          "following_count": 911,
+          "like_count": 30076,
+          "listed_count": 51,
+          "media_count": 4722,
+          "tweet_count": 17056
+        },
+        "url": "https://t.co/bmI4bOef90",
+        "username": "shannasparkleof",
+        "verified": false
+      }
+    ]
+  }
+}

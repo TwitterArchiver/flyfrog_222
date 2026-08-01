@@ -1,0 +1,103 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2051212117005701120",
+    "conversation_id": "2051228665321832812",
+    "created_at": "2026-05-04T09:13:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T10:13:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051228665321832812"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2051228665321832812",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "准备下海了\n其实也还不确定，也不知道为什么会走到这一步。没有什么性经验的话也不知道金主会不会介意，很多事情都还没搞清楚，总之慢慢想，等九月之后再说吧。不要在状态不好时做决定"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051212117005701120",
+        "conversation_id": "2051228665321832812",
+        "created_at": "2026-05-04T09:13:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T10:13:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051228665321832812"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051228665321832812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "准备下海了\n其实也还不确定，也不知道为什么会走到这一步。没有什么性经验的话也不知道金主会不会介意，很多事情都还没搞清楚，总之慢慢想，等九月之后再说吧。不要在状态不好时做决定"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-04T08:10:29.000Z",
+        "description": "Do you wanna fly with me?\n@Greenfish_111",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 26,
+                "username": "Greenfish_111"
+              }
+            ]
+          }
+        },
+        "id": "2051212117005701120",
+        "name": "ffffx",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051213133826682880/IGtHMrhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 1,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "flyfrog_222",
+        "verified": false
+      }
+    ]
+  }
+}

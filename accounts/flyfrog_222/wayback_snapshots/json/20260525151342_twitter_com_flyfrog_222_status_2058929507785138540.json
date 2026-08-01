@@ -1,0 +1,117 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2051212117005701120",
+    "conversation_id": "2058929507785138540",
+    "created_at": "2026-05-25T15:13:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T16:13:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058929507785138540"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2058929507785138540",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感觉我上公办大学 基本没戏了 没办法我高中生活过的太混沌了 简直是乱成一锅粥呀。没时间感伤了 不如想想之后干什么吧。打算打暑假工但又感觉这可能是我最后一个最悠闲的暑假了，可能学个驾照会比较好。总之先做出行动吧🏃‍♀️🏃‍♀️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051212117005701120",
+        "conversation_id": "2058929507785138540",
+        "created_at": "2026-05-25T15:13:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T16:13:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058929507785138540"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058929507785138540",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉我上公办大学 基本没戏了 没办法我高中生活过的太混沌了 简直是乱成一锅粥呀。没时间感伤了 不如想想之后干什么吧。打算打暑假工但又感觉这可能是我最后一个最悠闲的暑假了，可能学个驾照会比较好。总之先做出行动吧🏃‍♀️🏃‍♀️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-04T08:10:29.000Z",
+        "description": "Do you wanna fly with me?\n这个号用来发屁话和准备下🌊的\n另一个我@Greenfish_111",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 45,
+                "username": "Greenfish_111"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fisssssh",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fisssssh",
+                "start": 0,
+                "url": "https://t.co/7ZUh49JGtP"
+              }
+            ]
+          }
+        },
+        "id": "2051212117005701120",
+        "location": "🚪888/1888/18888",
+        "name": "ffffx",
+        "pinned_tweet_id": "2058823326735409154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051213133826682880/IGtHMrhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 12,
+          "like_count": 264,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 112
+        },
+        "url": "https://t.co/7ZUh49JGtP",
+        "username": "flyfrog_222",
+        "verified": false
+      }
+    ]
+  }
+}

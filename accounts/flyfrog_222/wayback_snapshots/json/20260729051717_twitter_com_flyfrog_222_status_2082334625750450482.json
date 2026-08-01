@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082334607660433408",
+        "3_2082334607660515328"
+      ]
+    },
+    "author_id": "2051212117005701120",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2082334625750450482",
+    "created_at": "2026-07-29T05:17:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T06:17:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082334625750450482"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/o5SW1BsZNC",
+          "end": 29,
+          "expanded_url": "https://x.com/flyfrog_222/status/2082334625750450482/photo/1",
+          "media_key": "3_2082334607660433408",
+          "start": 6,
+          "url": "https://t.co/o5SW1BsZNC"
+        },
+        {
+          "display_url": "pic.x.com/o5SW1BsZNC",
+          "end": 29,
+          "expanded_url": "https://x.com/flyfrog_222/status/2082334625750450482/photo/1",
+          "media_key": "3_2082334607660515328",
+          "start": 6,
+          "url": "https://t.co/o5SW1BsZNC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082334625750450482",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这两个好吃 https://t.co/o5SW1BsZNC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2082334607660433408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOXwSwEaQAAzBJ6.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2082334607660515328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOXwSwEbgAAnfuK.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082334607660433408",
+            "3_2082334607660515328"
+          ]
+        },
+        "author_id": "2051212117005701120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2082334625750450482",
+        "created_at": "2026-07-29T05:17:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T06:17:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082334625750450482"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o5SW1BsZNC",
+              "end": 29,
+              "expanded_url": "https://x.com/flyfrog_222/status/2082334625750450482/photo/1",
+              "media_key": "3_2082334607660433408",
+              "start": 6,
+              "url": "https://t.co/o5SW1BsZNC"
+            },
+            {
+              "display_url": "pic.x.com/o5SW1BsZNC",
+              "end": 29,
+              "expanded_url": "https://x.com/flyfrog_222/status/2082334625750450482/photo/1",
+              "media_key": "3_2082334607660515328",
+              "start": 6,
+              "url": "https://t.co/o5SW1BsZNC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082334625750450482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这两个好吃 https://t.co/o5SW1BsZNC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-04T08:10:29.000Z",
+        "description": "另一个我@Greenfish_111 /画@woyaosleep444",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 4,
+                "username": "Greenfish_111"
+              },
+              {
+                "end": 35,
+                "start": 21,
+                "username": "woyaosleep444"
+              }
+            ]
+          }
+        },
+        "id": "2051212117005701120",
+        "location": "Slient Hill",
+        "name": "ffffx",
+        "pinned_tweet_id": "2069288764808351825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051213133826682880/IGtHMrhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 22,
+          "like_count": 714,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 323
+        },
+        "url": "",
+        "username": "flyfrog_222",
+        "verified": false
+      }
+    ]
+  }
+}

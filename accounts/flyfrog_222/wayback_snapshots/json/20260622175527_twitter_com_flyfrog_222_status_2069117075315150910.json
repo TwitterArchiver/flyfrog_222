@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069117064183418880",
+        "3_2069117064263163904"
+      ]
+    },
+    "author_id": "2051212117005701120",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2069117075315150910",
+    "created_at": "2026-06-22T17:55:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T18:55:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069117075315150910"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RrpzENl2Mz",
+          "end": 49,
+          "expanded_url": "https://x.com/flyfrog_222/status/2069117075315150910/photo/1",
+          "media_key": "3_2069117064183418880",
+          "start": 26,
+          "url": "https://t.co/RrpzENl2Mz"
+        },
+        {
+          "display_url": "pic.x.com/RrpzENl2Mz",
+          "end": 49,
+          "expanded_url": "https://x.com/flyfrog_222/status/2069117075315150910/photo/1",
+          "media_key": "3_2069117064263163904",
+          "start": 26,
+          "url": "https://t.co/RrpzENl2Mz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069117075315150910",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小哥哥你们是真心想一起玩吗 我怎么觉得不太对劲呢。 https://t.co/RrpzENl2Mz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069117064183418880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLb7AdlaEAAIB5B.jpg",
+        "width": 947
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2069117064263163904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLb7Ad4a4AAhn7P.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069117064183418880",
+            "3_2069117064263163904"
+          ]
+        },
+        "author_id": "2051212117005701120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069117075315150910",
+        "created_at": "2026-06-22T17:55:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T18:55:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069117075315150910"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RrpzENl2Mz",
+              "end": 49,
+              "expanded_url": "https://x.com/flyfrog_222/status/2069117075315150910/photo/1",
+              "media_key": "3_2069117064183418880",
+              "start": 26,
+              "url": "https://t.co/RrpzENl2Mz"
+            },
+            {
+              "display_url": "pic.x.com/RrpzENl2Mz",
+              "end": 49,
+              "expanded_url": "https://x.com/flyfrog_222/status/2069117075315150910/photo/1",
+              "media_key": "3_2069117064263163904",
+              "start": 26,
+              "url": "https://t.co/RrpzENl2Mz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069117075315150910",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小哥哥你们是真心想一起玩吗 我怎么觉得不太对劲呢。 https://t.co/RrpzENl2Mz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-04T08:10:29.000Z",
+        "description": "💚💚💚\n另一个我@Greenfish_111 @fishoutworld/画@woyaosleep444",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 8,
+                "username": "Greenfish_111"
+              },
+              {
+                "end": 36,
+                "start": 23,
+                "username": "fishoutworld"
+              },
+              {
+                "end": 52,
+                "start": 38,
+                "username": "woyaosleep444"
+              }
+            ]
+          }
+        },
+        "id": "2051212117005701120",
+        "location": "Slient Hill",
+        "name": "ffffx",
+        "pinned_tweet_id": "2068747592109047987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051213133826682880/IGtHMrhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 15,
+          "like_count": 563,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 240
+        },
+        "url": "",
+        "username": "flyfrog_222",
+        "verified": false
+      }
+    ]
+  }
+}

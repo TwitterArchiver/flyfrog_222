@@ -1,0 +1,116 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2051212117005701120",
+    "conversation_id": "2057159035670114420",
+    "created_at": "2026-05-20T17:58:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T18:58:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057159035670114420"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2057159035670114420",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果未来有人和我两情相悦的话 和我结婚吧。我不会再自残了 不会再嗑药吸毒了 不会再卖淫了 不会乱发脾气的 不会出轨的 也不会过多干涉你的生活的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051212117005701120",
+        "conversation_id": "2057159035670114420",
+        "created_at": "2026-05-20T17:58:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T18:58:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057159035670114420"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057159035670114420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果未来有人和我两情相悦的话 和我结婚吧。我不会再自残了 不会再嗑药吸毒了 不会再卖淫了 不会乱发脾气的 不会出轨的 也不会过多干涉你的生活的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-04T08:10:29.000Z",
+        "description": "Do you wanna fly with me?\n🚪888\n另一个我@Greenfish_111",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 35,
+                "username": "Greenfish_111"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fisssssh",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fisssssh",
+                "start": 0,
+                "url": "https://t.co/7ZUh49JGtP"
+              }
+            ]
+          }
+        },
+        "id": "2051212117005701120",
+        "name": "ffffx",
+        "pinned_tweet_id": "2055811096771240398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051213133826682880/IGtHMrhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 10,
+          "like_count": 238,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 80
+        },
+        "url": "https://t.co/7ZUh49JGtP",
+        "username": "flyfrog_222",
+        "verified": false
+      }
+    ]
+  }
+}

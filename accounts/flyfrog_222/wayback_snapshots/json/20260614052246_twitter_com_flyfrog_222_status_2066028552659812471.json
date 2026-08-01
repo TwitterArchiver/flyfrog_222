@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2051212117005701120",
+    "conversation_id": "2065882078198247841",
+    "created_at": "2026-06-14T05:22:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T06:22:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066028552659812471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1831442024278470656",
+          "start": 0,
+          "username": "NERI03030"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066028552659812471",
+    "in_reply_to_user_id": "1831442024278470656",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066003229280796709",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NERI03030 诶嘿 是的😼💪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051212117005701120",
+        "conversation_id": "2065882078198247841",
+        "created_at": "2026-06-14T05:22:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T06:22:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066028552659812471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1831442024278470656",
+              "start": 0,
+              "username": "NERI03030"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066028552659812471",
+        "in_reply_to_user_id": "1831442024278470656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066003229280796709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NERI03030 诶嘿 是的😼💪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831442024278470656",
+        "conversation_id": "2065882078198247841",
+        "created_at": "2026-06-14T03:42:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T04:42:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066003229280796709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2051212117005701120",
+              "start": 0,
+              "username": "flyfrog_222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066003229280796709",
+        "in_reply_to_user_id": "2051212117005701120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065882078198247841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@flyfrog_222 宝宝你还会画画"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-04T08:10:29.000Z",
+        "description": "Do you wanna fly with me?\n我的日常。\n另一个我@Greenfish_111",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 36,
+                "username": "Greenfish_111"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fisssssh",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fisssssh",
+                "start": 0,
+                "url": "https://t.co/7ZUh49JGtP"
+              }
+            ]
+          }
+        },
+        "id": "2051212117005701120",
+        "location": "Slient Hill",
+        "name": "ffffx",
+        "pinned_tweet_id": "2062209536468090888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051213133826682880/IGtHMrhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 14,
+          "like_count": 468,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 169
+        },
+        "url": "https://t.co/7ZUh49JGtP",
+        "username": "flyfrog_222",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-04T21:19:48.000Z",
+        "description": "负能量但是好人，偶的朋友很少想交朋友\n聊黄拉黑，认真的",
+        "id": "1831442024278470656",
+        "name": "笼中鸟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038682687200804864/2jJa1ui0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 44,
+          "like_count": 567,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 412
+        },
+        "username": "NERI03030",
+        "verified": false
+      }
+    ]
+  }
+}

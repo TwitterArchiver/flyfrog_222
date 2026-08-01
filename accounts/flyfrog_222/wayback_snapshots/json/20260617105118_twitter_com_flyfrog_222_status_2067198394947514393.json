@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2051212117005701120",
+    "conversation_id": "2067156694837453108",
+    "created_at": "2026-06-17T10:51:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T11:51:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067198394947514393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2007474968259637249",
+          "start": 0,
+          "username": "yh1784070"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067198394947514393",
+    "in_reply_to_user_id": "2007474968259637249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067156694837453108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yh1784070 应该是的。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051212117005701120",
+        "conversation_id": "2067156694837453108",
+        "created_at": "2026-06-17T10:51:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T11:51:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067198394947514393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2007474968259637249",
+              "start": 0,
+              "username": "yh1784070"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067198394947514393",
+        "in_reply_to_user_id": "2007474968259637249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067156694837453108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yh1784070 应该是的。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007474968259637249",
+        "conversation_id": "2067156694837453108",
+        "created_at": "2026-06-17T08:05:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T09:05:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067156694837453108"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067156694837453108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 320,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为啥有人认不出皮下男、因为和女生接触少吗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-04T08:10:29.000Z",
+        "description": "只是当时已惘然\n另一个我@Greenfish_111",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "Greenfish_111"
+              }
+            ]
+          }
+        },
+        "id": "2051212117005701120",
+        "location": "Slient Hill",
+        "name": "ffffx",
+        "pinned_tweet_id": "2062209536468090888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051213133826682880/IGtHMrhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 14,
+          "like_count": 509,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 195
+        },
+        "username": "flyfrog_222",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-03T15:31:58.000Z",
+        "description": "社恐、低精力、颜狗。｜不想鸟任何人。｜若世界在明日结束",
+        "id": "2007474968259637249",
+        "name": "miaomiao",
+        "pinned_tweet_id": "2024475117322195449",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017981377187082240/HHzj8jsW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2912,
+          "following_count": 5,
+          "like_count": 30,
+          "listed_count": 9,
+          "media_count": 117,
+          "tweet_count": 355
+        },
+        "username": "yh1784070",
+        "verified": false
+      }
+    ]
+  }
+}

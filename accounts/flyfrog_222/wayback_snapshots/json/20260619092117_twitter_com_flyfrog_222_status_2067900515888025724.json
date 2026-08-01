@@ -1,0 +1,385 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2051212117005701120",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2067900515888025724",
+    "created_at": "2026-06-19T09:21:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T10:21:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067900515888025724"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/geminicli/stat…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/geminicli/status/2067702889837953512",
+          "start": 7,
+          "url": "https://t.co/kRiSD3JD21"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067900515888025724",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067702889837953512",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谷歌你去死吧 https://t.co/kRiSD3JD21"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051212117005701120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2067900515888025724",
+        "created_at": "2026-06-19T09:21:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T10:21:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067900515888025724"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/geminicli/stat…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/geminicli/status/2067702889837953512",
+              "start": 7,
+              "url": "https://t.co/kRiSD3JD21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067900515888025724",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067702889837953512",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谷歌你去死吧 https://t.co/kRiSD3JD21"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937290626829275136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2067702889837953512",
+        "created_at": "2026-06-18T20:15:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T21:15:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067702889837953512"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067702889837953512",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "github.com/google-gemini/…",
+                "end": 373,
+                "expanded_url": "https://github.com/google-gemini/gemini-cli/discussions/28017",
+                "start": 350,
+                "url": "https://t.co/WY8FZry4wr"
+              }
+            ]
+          },
+          "text": "Today, marks the official transition from Gemini CLI to the new Antigravity CLI for individual accounts. \n\nGemini CLI has stopped serving requests for Google AI Pro, Google AI Ultra, and free tier individual accounts.\n\nEnterprise users with Gemini Code Assist licenses and API key authentication remain completely unaffected.\n\nRead the full details: https://t.co/WY8FZry4wr"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 19324,
+          "like_count": 204,
+          "quote_count": 10,
+          "reply_count": 35,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "Today, marks the official transition from Gemini CLI to the new Antigravity CLI for individual accounts. \n\nGemini CLI has stopped serving requests for Google AI Pro, Google AI Ultra, and free tier individual accounts.\n\nEnterprise users with Gemini Code Assist licenses and API key"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-04T08:10:29.000Z",
+        "description": "只是当时已惘然\n另一个我@Greenfish_111",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "Greenfish_111"
+              }
+            ]
+          }
+        },
+        "id": "2051212117005701120",
+        "location": "Slient Hill",
+        "name": "ffffx",
+        "pinned_tweet_id": "2062209536468090888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051213133826682880/IGtHMrhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 14,
+          "like_count": 539,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 212
+        },
+        "url": "",
+        "username": "flyfrog_222",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-23T23:24:26.000Z",
+        "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "geminicli.com",
+                "end": 23,
+                "expanded_url": "https://www.geminicli.com",
+                "start": 0,
+                "url": "https://t.co/MEXgJgGlvX"
+              }
+            ]
+          }
+        },
+        "id": "1937290626829275136",
+        "name": "Gemini CLI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991894070155698176/oWexB4k7_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52132,
+          "following_count": 12,
+          "like_count": 26,
+          "listed_count": 503,
+          "media_count": 25,
+          "tweet_count": 76
+        },
+        "url": "https://t.co/MEXgJgGlvX",
+        "username": "geminicli",
+        "verified": true
+      }
+    ]
+  }
+}

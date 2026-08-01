@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2051212117005701120",
+    "conversation_id": "2072993280745460014",
+    "created_at": "2026-07-03T10:38:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T11:38:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072993280745460014"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/flyfrog_222/st…",
+          "end": 98,
+          "expanded_url": "https://twitter.com/flyfrog_222/status/2072992801701364058",
+          "start": 75,
+          "url": "https://t.co/HmWQi5mpkH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072993280745460014",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072992801701364058",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对不起票票糖我错了我不该上厕所的你回来吧因为我想起来你很贵呢对不起我错了你赶紧回来吧我不吃烧鸭了。哎哟我去我笑死了 算了我还是吃烧鸭吧我好喜欢烧鸭呀 https://t.co/HmWQi5mpkH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051212117005701120",
+        "conversation_id": "2072993280745460014",
+        "created_at": "2026-07-03T10:38:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T11:38:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072993280745460014"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/flyfrog_222/st…",
+              "end": 98,
+              "expanded_url": "https://twitter.com/flyfrog_222/status/2072992801701364058",
+              "start": 75,
+              "url": "https://t.co/HmWQi5mpkH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072993280745460014",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072992801701364058",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对不起票票糖我错了我不该上厕所的你回来吧因为我想起来你很贵呢对不起我错了你赶紧回来吧我不吃烧鸭了。哎哟我去我笑死了 算了我还是吃烧鸭吧我好喜欢烧鸭呀 https://t.co/HmWQi5mpkH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051212117005701120",
+        "conversation_id": "2072992801701364058",
+        "created_at": "2026-07-03T10:36:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T11:36:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072992801701364058"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/flyfrog_222/st…",
+              "end": 108,
+              "expanded_url": "https://twitter.com/flyfrog_222/status/2072991131454111786",
+              "start": 85,
+              "url": "https://t.co/3egTu73G0X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072992801701364058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072991131454111786",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我赶紧上了一个厕所。但是我已经有点头晕了oh不。对不起飘飘汤 请你一定要离开吧。我今晚点了烧鸭吃呢我还有水果茶要喝。我没有空和你玩了再见 或者我待会可以吃一点阿普挫仑。 https://t.co/3egTu73G0X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-04T08:10:29.000Z",
+        "description": "🖤🩶🤍💚🤍🩶🖤\n另一个我@Greenfish_111 /画@woyaosleep444",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "Greenfish_111"
+              },
+              {
+                "end": 43,
+                "start": 29,
+                "username": "woyaosleep444"
+              }
+            ]
+          }
+        },
+        "id": "2051212117005701120",
+        "location": "Slient Hill",
+        "name": "ffffx",
+        "pinned_tweet_id": "2069288764808351825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051213133826682880/IGtHMrhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 16,
+          "like_count": 642,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 272
+        },
+        "url": "",
+        "username": "flyfrog_222",
+        "verified": false
+      }
+    ]
+  }
+}

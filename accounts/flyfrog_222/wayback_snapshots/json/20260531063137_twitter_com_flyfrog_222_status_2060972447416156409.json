@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060972437760790528"
+      ]
+    },
+    "author_id": "2051212117005701120",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2060972447416156409",
+    "created_at": "2026-05-31T06:31:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T07:31:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060972447416156409"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JKcVvvDRGZ",
+          "end": 57,
+          "expanded_url": "https://x.com/flyfrog_222/status/2060972447416156409/photo/1",
+          "media_key": "3_2060972437760790528",
+          "start": 34,
+          "url": "https://t.co/JKcVvvDRGZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060972447416156409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每天就找这个美国豆包自我安慰一下给我脱罪。好懵逼呀我咋就要高考了。 https://t.co/JKcVvvDRGZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060972437760790528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJoLgzyaUAAuRiz.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060972437760790528"
+          ]
+        },
+        "author_id": "2051212117005701120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2060972447416156409",
+        "created_at": "2026-05-31T06:31:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T07:31:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060972447416156409"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JKcVvvDRGZ",
+              "end": 57,
+              "expanded_url": "https://x.com/flyfrog_222/status/2060972447416156409/photo/1",
+              "media_key": "3_2060972437760790528",
+              "start": 34,
+              "url": "https://t.co/JKcVvvDRGZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060972447416156409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每天就找这个美国豆包自我安慰一下给我脱罪。好懵逼呀我咋就要高考了。 https://t.co/JKcVvvDRGZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-04T08:10:29.000Z",
+        "description": "Do you wanna fly with me?\n这个号用来发屁话的\n另一个我@Greenfish_111",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Greenfish_111"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fisssssh",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fisssssh",
+                "start": 0,
+                "url": "https://t.co/7ZUh49JGtP"
+              }
+            ]
+          }
+        },
+        "id": "2051212117005701120",
+        "location": "🚪888/1888/18888",
+        "name": "ffffx",
+        "pinned_tweet_id": "2058823326735409154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051213133826682880/IGtHMrhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 11,
+          "like_count": 314,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 120
+        },
+        "url": "https://t.co/7ZUh49JGtP",
+        "username": "flyfrog_222",
+        "verified": false
+      }
+    ]
+  }
+}

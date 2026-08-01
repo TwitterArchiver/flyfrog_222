@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2051212117005701120",
+    "conversation_id": "2058369707598897152",
+    "created_at": "2026-05-24T14:33:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T15:33:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058556900384620570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1475987777791614982",
+          "start": 0,
+          "username": "bamo1337"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058556900384620570",
+    "in_reply_to_user_id": "1475987777791614982",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058369707598897152",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bamo1337 可以可以我收u 谁想来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051212117005701120",
+        "conversation_id": "2058369707598897152",
+        "created_at": "2026-05-24T14:33:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T15:33:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058556900384620570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1475987777791614982",
+              "start": 0,
+              "username": "bamo1337"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058556900384620570",
+        "in_reply_to_user_id": "1475987777791614982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058369707598897152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bamo1337 可以可以我收u 谁想来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1475987777791614982",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1139229087682068480",
+              "name": "Tether cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1139229087682068480",
+              "name": "Tether cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484181943616884743",
+              "name": "Cryptocoins"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "2058369707598897152",
+        "created_at": "2026-05-24T02:09:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T03:09:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058369707598897152"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058369707598897152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 31920,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 89,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就纳闷了，怎么那么多🚪姐不支持U呢\n\n都上推特了，用usdt不应该是最基本的吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-04T08:10:29.000Z",
+        "description": "Do you wanna fly with me?\n🚪888/1888 无线上福利只线下（🚪价非线下价格）\n另一个我@Greenfish_111",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 58,
+                "username": "Greenfish_111"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fisssssh",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fisssssh",
+                "start": 0,
+                "url": "https://t.co/7ZUh49JGtP"
+              }
+            ]
+          }
+        },
+        "id": "2051212117005701120",
+        "location": "Silent Hill    随缘接 静候有缘人…",
+        "name": "ffffx",
+        "pinned_tweet_id": "2058144351910535649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051213133826682880/IGtHMrhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 11,
+          "like_count": 254,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 91
+        },
+        "url": "https://t.co/7ZUh49JGtP",
+        "username": "flyfrog_222",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-29T00:31:38.000Z",
+        "description": "Safi",
+        "id": "1475987777791614982",
+        "name": "bamo",
+        "pinned_tweet_id": "2057291190387744924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057990589959028736/eZD2pZ-E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 25,
+          "like_count": 46,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 78
+        },
+        "username": "bamo1337",
+        "verified": true
+      }
+    ]
+  }
+}

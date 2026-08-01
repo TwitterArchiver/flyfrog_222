@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072888655518289920"
+      ]
+    },
+    "author_id": "2051212117005701120",
+    "conversation_id": "2072888674107441566",
+    "created_at": "2026-07-03T03:42:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T04:42:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072888674107441566"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lPQ52N5oW3",
+          "end": 52,
+          "expanded_url": "https://x.com/flyfrog_222/status/2072888674107441566/photo/1",
+          "media_key": "3_2072888655518289920",
+          "start": 29,
+          "url": "https://t.co/lPQ52N5oW3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072888674107441566",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这波消费会不会有点太奢侈了？！\n不过量够我吃两顿了还行吧 https://t.co/lPQ52N5oW3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072888655518289920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMRhP-Ma0AA40rV.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072888655518289920"
+          ]
+        },
+        "author_id": "2051212117005701120",
+        "conversation_id": "2072888674107441566",
+        "created_at": "2026-07-03T03:42:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T04:42:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072888674107441566"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lPQ52N5oW3",
+              "end": 52,
+              "expanded_url": "https://x.com/flyfrog_222/status/2072888674107441566/photo/1",
+              "media_key": "3_2072888655518289920",
+              "start": 29,
+              "url": "https://t.co/lPQ52N5oW3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072888674107441566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这波消费会不会有点太奢侈了？！\n不过量够我吃两顿了还行吧 https://t.co/lPQ52N5oW3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-04T08:10:29.000Z",
+        "description": "🖤🩶🤍💚🤍🩶🖤\n另一个我@Greenfish_111 /画@woyaosleep444",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "Greenfish_111"
+              },
+              {
+                "end": 43,
+                "start": 29,
+                "username": "woyaosleep444"
+              }
+            ]
+          }
+        },
+        "id": "2051212117005701120",
+        "location": "Slient Hill",
+        "name": "ffffx",
+        "pinned_tweet_id": "2069288764808351825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051213133826682880/IGtHMrhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 16,
+          "like_count": 639,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 267
+        },
+        "url": "",
+        "username": "flyfrog_222",
+        "verified": false
+      }
+    ]
+  }
+}

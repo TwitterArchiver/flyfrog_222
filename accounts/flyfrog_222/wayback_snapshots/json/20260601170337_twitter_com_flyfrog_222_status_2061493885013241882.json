@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2051212117005701120",
+    "conversation_id": "2061493885013241882",
+    "created_at": "2026-06-01T17:03:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T18:03:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061493885013241882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "129826064",
+          "start": 3,
+          "username": "ohhmcfly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061493885013241882",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061421345620013209",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ohhmcfly: a los 14 años muchas ya somos sexualmente activas, además yo a esa edad ya fumaba porro, tomaba alcohol y salía de noche, la…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051212117005701120",
+        "conversation_id": "2061493885013241882",
+        "created_at": "2026-06-01T17:03:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T18:03:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061493885013241882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "129826064",
+              "start": 3,
+              "username": "ohhmcfly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061493885013241882",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061421345620013209",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ohhmcfly: a los 14 años muchas ya somos sexualmente activas, además yo a esa edad ya fumaba porro, tomaba alcohol y salía de noche, la…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "129826064",
+        "conversation_id": "2061421345620013209",
+        "created_at": "2026-06-01T12:15:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T13:15:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061421345620013209"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061421345620013209",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 49348,
+          "like_count": 936,
+          "quote_count": 56,
+          "reply_count": 120,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "a los 14 años muchas ya somos sexualmente activas, además yo a esa edad ya fumaba porro, tomaba alcohol y salía de noche, la verdad no sé si está bien o está mal, lo que sé q está mal es que existan ped0filos que manipulen y extorsionen a una menor de edad para abusarla"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-04T08:10:29.000Z",
+        "description": "Do you wanna fly with me?\n另一个我@Greenfish_111",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 30,
+                "username": "Greenfish_111"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fisssssh",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fisssssh",
+                "start": 0,
+                "url": "https://t.co/7ZUh49JGtP"
+              }
+            ]
+          }
+        },
+        "id": "2051212117005701120",
+        "location": "🚪888/1888/18888 ",
+        "name": "ffffx",
+        "pinned_tweet_id": "2058823326735409154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051213133826682880/IGtHMrhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 13,
+          "like_count": 341,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 126
+        },
+        "url": "https://t.co/7ZUh49JGtP",
+        "username": "flyfrog_222",
+        "verified": false
+      },
+      {
+        "created_at": "2010-04-05T14:46:50.000Z",
+        "description": "gorda del verbo amar. los que me conocen saben como soy.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rociodelrey.straw.page",
+                "end": 23,
+                "expanded_url": "https://rociodelrey.straw.page",
+                "start": 0,
+                "url": "https://t.co/RG6zlkEG6e"
+              }
+            ]
+          }
+        },
+        "id": "129826064",
+        "location": "argentina",
+        "name": "rocio del rey quiroz",
+        "pinned_tweet_id": "1964882520933364106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877574156205572096/xihZZ35F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8028,
+          "following_count": 3073,
+          "like_count": 361085,
+          "listed_count": 11,
+          "media_count": 9324,
+          "tweet_count": 163925
+        },
+        "url": "https://t.co/RG6zlkEG6e",
+        "username": "ohhmcfly",
+        "verified": false
+      }
+    ]
+  }
+}

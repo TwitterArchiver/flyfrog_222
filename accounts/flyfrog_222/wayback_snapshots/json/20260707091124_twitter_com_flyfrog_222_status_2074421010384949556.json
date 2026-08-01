@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2051212117005701120",
+    "conversation_id": "2074421010384949556",
+    "created_at": "2026-07-07T09:11:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T10:11:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074421010384949556"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2074421010384949556",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我之前感觉不好的时候 感受都混成一团 我分不清我怎么了 我只能觉得不好 很混乱。\n不过我现在进步了很多，比如崩溃 生气的时候 我会想 这是我在生气。\n情绪上来就是很想做极端的事 感觉很有存在感\n不过即使很想搞破坏 也不可以那样做。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051212117005701120",
+        "conversation_id": "2074421010384949556",
+        "created_at": "2026-07-07T09:11:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T10:11:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074421010384949556"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074421010384949556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我之前感觉不好的时候 感受都混成一团 我分不清我怎么了 我只能觉得不好 很混乱。\n不过我现在进步了很多，比如崩溃 生气的时候 我会想 这是我在生气。\n情绪上来就是很想做极端的事 感觉很有存在感\n不过即使很想搞破坏 也不可以那样做。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-04T08:10:29.000Z",
+        "description": "🖤🩶🤍💚🤍🩶🖤此号被shadow ban了\n另一个我@Greenfish_111 /画@woyaosleep444",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 26,
+                "username": "Greenfish_111"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "woyaosleep444"
+              }
+            ]
+          }
+        },
+        "id": "2051212117005701120",
+        "location": "Slient Hill",
+        "name": "ffffx",
+        "pinned_tweet_id": "2069288764808351825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051213133826682880/IGtHMrhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 16,
+          "like_count": 671,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 292
+        },
+        "url": "",
+        "username": "flyfrog_222",
+        "verified": false
+      }
+    ]
+  }
+}

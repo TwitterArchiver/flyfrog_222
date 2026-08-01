@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2051212117005701120",
+    "conversation_id": "2059910039029350412",
+    "created_at": "2026-05-28T08:09:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T09:09:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059910039029350412"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "987541942362877952",
+          "start": 3,
+          "username": "LizbethJanetAr2"
+        },
+        {
+          "end": 36,
+          "id": "1373983841795334150",
+          "start": 21,
+          "username": "PropositoyVida"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059910039029350412",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059661887982141759",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LizbethJanetAr2: @PropositoyVida Su cuerpo, su decisión"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051212117005701120",
+        "conversation_id": "2059910039029350412",
+        "created_at": "2026-05-28T08:09:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T09:09:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059910039029350412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "987541942362877952",
+              "start": 3,
+              "username": "LizbethJanetAr2"
+            },
+            {
+              "end": 36,
+              "id": "1373983841795334150",
+              "start": 21,
+              "username": "PropositoyVida"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059910039029350412",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059661887982141759",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LizbethJanetAr2: @PropositoyVida Su cuerpo, su decisión"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "987541942362877952",
+        "conversation_id": "2059634798717747710",
+        "created_at": "2026-05-27T15:43:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T16:43:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059661887982141759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1373983841795334150",
+              "start": 0,
+              "username": "PropositoyVida"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059661887982141759",
+        "in_reply_to_user_id": "1373983841795334150",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 122005,
+          "like_count": 813,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059634798717747710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PropositoyVida Su cuerpo, su decisión"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-04T08:10:29.000Z",
+        "description": "Do you wanna fly with me?\n这个号用来发屁话的\n另一个我@Greenfish_111",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Greenfish_111"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fisssssh",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fisssssh",
+                "start": 0,
+                "url": "https://t.co/7ZUh49JGtP"
+              }
+            ]
+          }
+        },
+        "id": "2051212117005701120",
+        "location": "🚪888/1888/18888",
+        "name": "ffffx",
+        "pinned_tweet_id": "2058823326735409154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051213133826682880/IGtHMrhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 12,
+          "like_count": 274,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 114
+        },
+        "url": "https://t.co/7ZUh49JGtP",
+        "username": "flyfrog_222",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-21T04:02:01.000Z",
+        "description": "hola",
+        "id": "987541942362877952",
+        "name": "Lizbeth Janet Arias Ramírez",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1709659868158660608/5ag-wCkP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 32,
+          "like_count": 105,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 40
+        },
+        "username": "LizbethJanetAr2",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-22T13:04:18.000Z",
+        "description": "Estoicismo | Salud mental | Crecimiento personal | Psicología | Riqueza | Buenos hábitos | Progresa cada día | Aprende cómo pensar de manera diferente.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@PropositoyVida",
+                "end": 23,
+                "expanded_url": "http://www.youtube.com/@PropositoyVida",
+                "start": 0,
+                "url": "https://t.co/SqYchbiSWM"
+              }
+            ]
+          }
+        },
+        "id": "1373983841795334150",
+        "location": "PROMOCIONES Y PUBLICIDAD ✉ DM",
+        "name": "Vive con Propósito.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1392439624748998660/vV7iBUlk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 823312,
+          "following_count": 32,
+          "like_count": 9669,
+          "listed_count": 2714,
+          "media_count": 16061,
+          "tweet_count": 33124
+        },
+        "url": "https://t.co/SqYchbiSWM",
+        "username": "PropositoyVida",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2051212117005701120",
+    "conversation_id": "2069281324284924225",
+    "created_at": "2026-06-23T04:48:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T05:48:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069281324284924225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2059206383149731840",
+          "start": 3,
+          "username": "Somzaneas"
+        },
+        {
+          "end": 26,
+          "id": "1869318936388608000",
+          "start": 15,
+          "username": "p_sama1616"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069281324284924225",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069088909389426874",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Somzaneas: @p_sama1616 ほんとにこれヤバいですよね…。\n「嫌われたくない」一心で先回りして壊しちゃう悪循環。\n頭ではわかってるのに止まらないところが一番つらい。\n共感しかないです。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051212117005701120",
+        "conversation_id": "2069281324284924225",
+        "created_at": "2026-06-23T04:48:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T05:48:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069281324284924225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2059206383149731840",
+              "start": 3,
+              "username": "Somzaneas"
+            },
+            {
+              "end": 26,
+              "id": "1869318936388608000",
+              "start": 15,
+              "username": "p_sama1616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069281324284924225",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069088909389426874",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Somzaneas: @p_sama1616 ほんとにこれヤバいですよね…。\n「嫌われたくない」一心で先回りして壊しちゃう悪循環。\n頭ではわかってるのに止まらないところが一番つらい。\n共感しかないです。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059206383149731840",
+        "conversation_id": "2068996583119847814",
+        "created_at": "2026-06-22T16:03:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T17:03:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069088909389426874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1869318936388608000",
+              "start": 0,
+              "username": "p_sama1616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069088909389426874",
+        "in_reply_to_user_id": "1869318936388608000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1934,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068996583119847814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p_sama1616 ほんとにこれヤバいですよね…。\n「嫌われたくない」一心で先回りして壊しちゃう悪循環。\n頭ではわかってるのに止まらないところが一番つらい。\n共感しかないです。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-04T08:10:29.000Z",
+        "description": "🖤🩶🤍💚🤍🩶🖤\n另一个我@Greenfish_111 @fishoutworld/画@woyaosleep444",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "Greenfish_111"
+              },
+              {
+                "end": 40,
+                "start": 27,
+                "username": "fishoutworld"
+              },
+              {
+                "end": 56,
+                "start": 42,
+                "username": "woyaosleep444"
+              }
+            ]
+          }
+        },
+        "id": "2051212117005701120",
+        "location": "Slient Hill",
+        "name": "ffffx",
+        "pinned_tweet_id": "2068747592109047987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051213133826682880/IGtHMrhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 15,
+          "like_count": 566,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 241
+        },
+        "url": "",
+        "username": "flyfrog_222",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-26T09:35:53.000Z",
+        "description": "",
+        "id": "2059206383149731840",
+        "name": "Somza",
+        "pinned_tweet_id": "2068641789964403178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059209055655378944/mKCRwjRm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2966,
+          "following_count": 2932,
+          "like_count": 38579,
+          "listed_count": 8,
+          "media_count": 301,
+          "tweet_count": 47143
+        },
+        "url": "",
+        "username": "Somzaneas",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-18T09:49:08.000Z",
+        "description": "愛されてるやつの言葉は、信じるな",
+        "id": "1869318936388608000",
+        "name": "限界がんこちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997843633714999296/BwLMyQKF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31152,
+          "following_count": 3673,
+          "like_count": 16262,
+          "listed_count": 107,
+          "media_count": 6,
+          "tweet_count": 4601
+        },
+        "url": "",
+        "username": "p_sama1616",
+        "verified": true
+      }
+    ]
+  }
+}

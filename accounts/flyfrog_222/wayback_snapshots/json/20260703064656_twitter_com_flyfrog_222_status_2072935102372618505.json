@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072935078423072769"
+      ]
+    },
+    "author_id": "2051212117005701120",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2072935102372618505",
+    "created_at": "2026-07-03T06:46:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T07:46:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072935102372618505"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oFY2NwftnU",
+          "end": 42,
+          "expanded_url": "https://x.com/flyfrog_222/status/2072935102372618505/photo/1",
+          "media_key": "3_2072935078423072769",
+          "start": 19,
+          "url": "https://t.co/oFY2NwftnU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072935102372618505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "很好很好 我今天要玩这个肯德基0号路 https://t.co/oFY2NwftnU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2072935078423072769",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMSLeI_akAE6rbo.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072935078423072769"
+          ]
+        },
+        "author_id": "2051212117005701120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2072935102372618505",
+        "created_at": "2026-07-03T06:46:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T07:46:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072935102372618505"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oFY2NwftnU",
+              "end": 42,
+              "expanded_url": "https://x.com/flyfrog_222/status/2072935102372618505/photo/1",
+              "media_key": "3_2072935078423072769",
+              "start": 19,
+              "url": "https://t.co/oFY2NwftnU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072935102372618505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很好很好 我今天要玩这个肯德基0号路 https://t.co/oFY2NwftnU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-04T08:10:29.000Z",
+        "description": "🖤🩶🤍💚🤍🩶🖤\n另一个我@Greenfish_111 /画@woyaosleep444",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "Greenfish_111"
+              },
+              {
+                "end": 43,
+                "start": 29,
+                "username": "woyaosleep444"
+              }
+            ]
+          }
+        },
+        "id": "2051212117005701120",
+        "location": "Slient Hill",
+        "name": "ffffx",
+        "pinned_tweet_id": "2069288764808351825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051213133826682880/IGtHMrhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 16,
+          "like_count": 639,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 269
+        },
+        "url": "",
+        "username": "flyfrog_222",
+        "verified": false
+      }
+    ]
+  }
+}

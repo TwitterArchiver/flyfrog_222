@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2051212117005701120",
+    "conversation_id": "2055810267964170267",
+    "created_at": "2026-05-17T00:38:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T01:38:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055810267964170267"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/umi6d/status/2…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/umi6d/status/2055677880231985345",
+          "start": 11,
+          "url": "https://t.co/L7TkRbcFQD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055810267964170267",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055677880231985345",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谁敢这么对我立马去死 https://t.co/L7TkRbcFQD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 847,
+        "media_key": "3_2055677878357164032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIc8I5AbgAAd_i7.jpg",
+        "width": 1126
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051212117005701120",
+        "conversation_id": "2055810267964170267",
+        "created_at": "2026-05-17T00:38:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T01:38:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055810267964170267"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/umi6d/status/2…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/umi6d/status/2055677880231985345",
+              "start": 11,
+              "url": "https://t.co/L7TkRbcFQD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055810267964170267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055677880231985345",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁敢这么对我立马去死 https://t.co/L7TkRbcFQD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055677878357164032"
+          ]
+        },
+        "author_id": "1850161099",
+        "conversation_id": "2055677880231985345",
+        "created_at": "2026-05-16T15:52:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T16:52:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055677880231985345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V05RSfj6ki",
+              "end": 63,
+              "expanded_url": "https://x.com/umi6D/status/2055677880231985345/photo/1",
+              "media_key": "3_2055677878357164032",
+              "start": 40,
+              "url": "https://t.co/V05RSfj6ki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055677880231985345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 39346,
+          "like_count": 389,
+          "quote_count": 2,
+          "reply_count": 34,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "emmm… 我一直以为是新手主人，结果今天四句话差点给我干湿了。颅内已经高潮。 https://t.co/V05RSfj6ki"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-04T08:10:29.000Z",
+        "description": "Do you wanna fly with me?\n🚪888支持usdt付款\n此号大概是预备用来下🌊/大号@Greenfish_111",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 53,
+                "username": "Greenfish_111"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fisssssh",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fisssssh",
+                "start": 0,
+                "url": "https://t.co/7ZUh49JGtP"
+              }
+            ]
+          }
+        },
+        "id": "2051212117005701120",
+        "name": "ffffx",
+        "pinned_tweet_id": "2054134609064169686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051213133826682880/IGtHMrhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 1,
+          "like_count": 190,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 60
+        },
+        "url": "https://t.co/7ZUh49JGtP",
+        "username": "flyfrog_222",
+        "verified": false
+      },
+      {
+        "created_at": "2013-09-10T02:46:22.000Z",
+        "description": "在和人一起探索自己",
+        "id": "1850161099",
+        "name": "Umi",
+        "pinned_tweet_id": "1883095240489554313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884597487840698369/W2KsTvp9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6764,
+          "following_count": 355,
+          "like_count": 330,
+          "listed_count": 23,
+          "media_count": 134,
+          "tweet_count": 460
+        },
+        "username": "umi6D",
+        "verified": false
+      }
+    ]
+  }
+}

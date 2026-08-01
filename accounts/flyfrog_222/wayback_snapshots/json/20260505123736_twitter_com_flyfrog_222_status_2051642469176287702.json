@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2051554912484667392"
+      ],
+      "media_source_tweet_id": [
+        "2051554920902590712"
+      ]
+    },
+    "author_id": "2051212117005701120",
+    "conversation_id": "2051642469176287702",
+    "created_at": "2026-05-05T12:37:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T13:37:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051642469176287702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1551342229016305666",
+          "start": 3,
+          "username": "_negau_2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yP1HAFC9cg",
+          "end": 37,
+          "expanded_url": "https://x.com/_negau_2/status/2051554920902590712/video/1",
+          "media_key": "7_2051554912484667392",
+          "start": 14,
+          "url": "https://t.co/yP1HAFC9cg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051642469176287702",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 190
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051554920902590712",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_negau_2: https://t.co/yP1HAFC9cg"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2229,
+        "height": 720,
+        "media_key": "7_2051554912484667392",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2051554912484667392/pu/img/OVYUjNvohDic3b72.jpg",
+        "public_metrics": {
+          "view_count": 5496
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2051554912484667392/pu/vid/avc1/320x320/SvzL4cM7cdHyQWvA.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2051554912484667392/pu/vid/avc1/540x540/Dr3PcaQzYKv1M0lj.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2051554912484667392/pu/vid/avc1/720x720/2Ae_b1x6MZ3Dcgjh.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2051554912484667392/pu/pl/iQzR8qqeO_rlW7Px.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2051554912484667392"
+          ],
+          "media_source_tweet_id": [
+            "2051554920902590712"
+          ]
+        },
+        "author_id": "2051212117005701120",
+        "conversation_id": "2051642469176287702",
+        "created_at": "2026-05-05T12:37:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T13:37:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051642469176287702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1551342229016305666",
+              "start": 3,
+              "username": "_negau_2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yP1HAFC9cg",
+              "end": 37,
+              "expanded_url": "https://x.com/_negau_2/status/2051554920902590712/video/1",
+              "media_key": "7_2051554912484667392",
+              "start": 14,
+              "url": "https://t.co/yP1HAFC9cg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051642469176287702",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 190
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051554920902590712",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_negau_2: https://t.co/yP1HAFC9cg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2051554912484667392"
+          ]
+        },
+        "author_id": "1551342229016305666",
+        "conversation_id": "2051554920902590712",
+        "created_at": "2026-05-05T06:49:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T07:49:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051554920902590712"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yP1HAFC9cg",
+              "end": 23,
+              "expanded_url": "https://x.com/_negau_2/status/2051554920902590712/video/1",
+              "media_key": "7_2051554912484667392",
+              "start": 0,
+              "url": "https://t.co/yP1HAFC9cg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051554920902590712",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 121,
+          "impression_count": 9988,
+          "like_count": 1500,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 190
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/yP1HAFC9cg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-04T08:10:29.000Z",
+        "description": "Do you wanna fly with me?",
+        "id": "2051212117005701120",
+        "name": "ffffx",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051213133826682880/IGtHMrhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 2,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 13
+        },
+        "username": "flyfrog_222",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-24T23:03:21.000Z",
+        "description": "心の絵日記 / メインアカウント→@_negau_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "_negau_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/irasuto_0r",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/irasuto_0r",
+                "start": 0,
+                "url": "https://t.co/TinpCMbPmz"
+              }
+            ]
+          }
+        },
+        "id": "1551342229016305666",
+        "location": "⚠裸体.傷",
+        "name": "願U/negaU の 深淵",
+        "pinned_tweet_id": "2043268392799670676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971572915138420736/Iy1FDUef_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12065,
+          "following_count": 0,
+          "like_count": 61,
+          "listed_count": 41,
+          "media_count": 222,
+          "tweet_count": 284
+        },
+        "url": "https://t.co/TinpCMbPmz",
+        "username": "_negau_2",
+        "verified": false
+      }
+    ]
+  }
+}

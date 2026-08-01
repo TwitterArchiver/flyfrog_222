@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2051212117005701120",
+    "conversation_id": "2068695450887376934",
+    "created_at": "2026-06-21T17:16:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T18:16:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068744960401424804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2050195735866400768",
+          "start": 0,
+          "username": "iangL345216"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068744960401424804",
+    "in_reply_to_user_id": "2050195735866400768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068744526009876776",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iangL345216 哇哦这样的 感觉很不错 很自然呀 我也参考一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051212117005701120",
+        "conversation_id": "2068695450887376934",
+        "created_at": "2026-06-21T17:16:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T18:16:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068744960401424804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2050195735866400768",
+              "start": 0,
+              "username": "iangL345216"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068744960401424804",
+        "in_reply_to_user_id": "2050195735866400768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068744526009876776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iangL345216 哇哦这样的 感觉很不错 很自然呀 我也参考一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050195735866400768",
+        "conversation_id": "2068695450887376934",
+        "created_at": "2026-06-21T17:15:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T18:15:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068744526009876776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2051212117005701120",
+              "start": 0,
+              "username": "flyfrog_222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068744526009876776",
+        "in_reply_to_user_id": "2051212117005701120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068695450887376934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@flyfrog_222 想起来我和我第五搭子是怎么认识的了\n基本就是玩模仿者\n两个狼 然后互相配合最后赢了\n赛后加了好友 互夸了一波 然后两个人一起打了一会\n之后便加了微信\n然后就是聊起来了 关系也就好起来了\n然后慢慢的聊些别的话题（比如日常生活什么的）\n这个是互联网上的办法"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-04T08:10:29.000Z",
+        "description": "💚💚💚\n另一个我@Greenfish_111 @fishoutworld/画@woyaosleep444",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 8,
+                "username": "Greenfish_111"
+              },
+              {
+                "end": 36,
+                "start": 23,
+                "username": "fishoutworld"
+              },
+              {
+                "end": 52,
+                "start": 38,
+                "username": "woyaosleep444"
+              }
+            ]
+          }
+        },
+        "id": "2051212117005701120",
+        "location": "Slient Hill",
+        "name": "ffffx",
+        "pinned_tweet_id": "2062209536468090888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051213133826682880/IGtHMrhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 15,
+          "like_count": 553,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 235
+        },
+        "url": "",
+        "username": "flyfrog_222",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-01T12:49:05.000Z",
+        "description": "我是嶺諵丨男丨18丨intp7w6丨乐意盘点手串丨老二次元这一块",
+        "id": "2050195735866400768",
+        "name": "嶺諵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052975201575702528/0wdneHYr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 51,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 188
+        },
+        "url": "",
+        "username": "iangL345216",
+        "verified": false
+      }
+    ]
+  }
+}

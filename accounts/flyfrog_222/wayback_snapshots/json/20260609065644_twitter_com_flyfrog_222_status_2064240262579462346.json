@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2051212117005701120",
+    "conversation_id": "2064240262579462346",
+    "created_at": "2026-06-09T06:56:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T07:56:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064240262579462346"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/busuozi/status…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/busuozi/status/2063690506048303325",
+          "start": 6,
+          "url": "https://t.co/iH6pygDuU8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064240262579462346",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063690506048303325",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就这样😭 https://t.co/iH6pygDuU8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051212117005701120",
+        "conversation_id": "2064240262579462346",
+        "created_at": "2026-06-09T06:56:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T07:56:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064240262579462346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/busuozi/status…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/busuozi/status/2063690506048303325",
+              "start": 6,
+              "url": "https://t.co/iH6pygDuU8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064240262579462346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063690506048303325",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就这样😭 https://t.co/iH6pygDuU8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991801837620703232",
+        "conversation_id": "2063690506048303325",
+        "created_at": "2026-06-07T18:32:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T19:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063690506048303325"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063690506048303325",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1465,
+          "impression_count": 2575799,
+          "like_count": 53955,
+          "quote_count": 4049,
+          "reply_count": 101,
+          "retweet_count": 2655
+        },
+        "reply_settings": "everyone",
+        "text": "中途半端なブスが一番顔に固執してる"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-04T08:10:29.000Z",
+        "description": "Do you wanna fly with me?\n我的日常。\n另一个我@Greenfish_111",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 36,
+                "username": "Greenfish_111"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fisssssh",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fisssssh",
+                "start": 0,
+                "url": "https://t.co/7ZUh49JGtP"
+              }
+            ]
+          }
+        },
+        "id": "2051212117005701120",
+        "location": "Slient Hill",
+        "name": "ffffx",
+        "pinned_tweet_id": "2062209536468090888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051213133826682880/IGtHMrhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 11,
+          "like_count": 421,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 155
+        },
+        "url": "https://t.co/7ZUh49JGtP",
+        "username": "flyfrog_222",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-21T09:32:27.000Z",
+        "description": "山口出身 n+k=3 元北予備\n彼氏死ね",
+        "id": "1991801837620703232",
+        "location": "ブスの権化にどうかお慈悲を",
+        "name": "てふ子",
+        "pinned_tweet_id": "1994118261479534964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061487397410607104/dd5zkpXr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 161,
+          "like_count": 3449,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 961
+        },
+        "username": "busuozi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2051212117005701120",
+    "conversation_id": "2061835733858713702",
+    "created_at": "2026-06-02T15:42:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T16:42:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061835733858713702"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2061835733858713702",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "老实说…自从知道其实很多外围之类的 其实ta们并不知道其实有中介在中间抽介绍费，中间信息可能都被倒了好几手…\n我本以为他们都知情…额 这种事莫名让我觉得有点不适 \n当中介的话又没风险 抽成还多 各类风险也全是鸡鸭在担了而他们美美隐退 怪不得说色情职业者是灰产最底层呢……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051212117005701120",
+        "conversation_id": "2061835733858713702",
+        "created_at": "2026-06-02T15:42:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T16:42:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061835733858713702"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061835733858713702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老实说…自从知道其实很多外围之类的 其实ta们并不知道其实有中介在中间抽介绍费，中间信息可能都被倒了好几手…\n我本以为他们都知情…额 这种事莫名让我觉得有点不适 \n当中介的话又没风险 抽成还多 各类风险也全是鸡鸭在担了而他们美美隐退 怪不得说色情职业者是灰产最底层呢……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-04T08:10:29.000Z",
+        "description": "Do you wanna fly with me?\n另一个我@Greenfish_111",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 30,
+                "username": "Greenfish_111"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fisssssh",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fisssssh",
+                "start": 0,
+                "url": "https://t.co/7ZUh49JGtP"
+              }
+            ]
+          }
+        },
+        "id": "2051212117005701120",
+        "location": "🚪888/1888/18888",
+        "name": "ffffx",
+        "pinned_tweet_id": "2058823326735409154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051213133826682880/IGtHMrhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 13,
+          "like_count": 346,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 129
+        },
+        "url": "https://t.co/7ZUh49JGtP",
+        "username": "flyfrog_222",
+        "verified": false
+      }
+    ]
+  }
+}

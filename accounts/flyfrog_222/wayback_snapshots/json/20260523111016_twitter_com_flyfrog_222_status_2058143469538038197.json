@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2051212117005701120",
+    "conversation_id": "2058143469538038197",
+    "created_at": "2026-05-23T11:10:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T12:10:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058143469538038197"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/greenfish_111/…",
+          "end": 79,
+          "expanded_url": "https://twitter.com/greenfish_111/status/2058106149032136900",
+          "start": 56,
+          "url": "https://t.co/jxrbQzJhAW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058143469538038197",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058106149032136900",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我都不知道难道我跟我有什么血海深仇吗。我感觉就像在玩一个游戏然后我现在在试图打出各种各样的bad ending https://t.co/jxrbQzJhAW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051212117005701120",
+        "conversation_id": "2058143469538038197",
+        "created_at": "2026-05-23T11:10:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T12:10:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058143469538038197"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/greenfish_111/…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/greenfish_111/status/2058106149032136900",
+              "start": 56,
+              "url": "https://t.co/jxrbQzJhAW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058143469538038197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058106149032136900",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我都不知道难道我跟我有什么血海深仇吗。我感觉就像在玩一个游戏然后我现在在试图打出各种各样的bad ending https://t.co/jxrbQzJhAW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1244543552652054528",
+        "conversation_id": "2058106149032136900",
+        "created_at": "2026-05-23T08:41:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T09:41:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058106149032136900"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058106149032136900",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 114,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有时候看到我自己 我都觉得这个人特别可怜 我不知道我为什么要这样虐待它 我把它的一生都毁了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-04T08:10:29.000Z",
+        "description": "Do you wanna fly with me?\n🚪888/1888\n另一个我@Greenfish_111",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Greenfish_111"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fisssssh",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fisssssh",
+                "start": 0,
+                "url": "https://t.co/7ZUh49JGtP"
+              }
+            ]
+          }
+        },
+        "id": "2051212117005701120",
+        "name": "ffffx",
+        "pinned_tweet_id": "2055811096771240398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051213133826682880/IGtHMrhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 11,
+          "like_count": 251,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 87
+        },
+        "url": "https://t.co/7ZUh49JGtP",
+        "username": "flyfrog_222",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-30T08:34:48.000Z",
+        "description": "糖在风中无力地裂开\nbpd/🚪888/1888\n神秘第二人格@flyfrog_222",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 30,
+                "username": "flyfrog_222"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fisssssh",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fisssssh",
+                "start": 0,
+                "url": "https://t.co/O6z1krBbWA"
+              }
+            ]
+          }
+        },
+        "id": "1244543552652054528",
+        "location": "Silent Hill    ",
+        "name": "冰冷電子魚",
+        "pinned_tweet_id": "2057360388690481539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872220255705333760/XVl2yIEq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4949,
+          "following_count": 544,
+          "like_count": 13157,
+          "listed_count": 8,
+          "media_count": 1088,
+          "tweet_count": 14109
+        },
+        "url": "https://t.co/O6z1krBbWA",
+        "username": "Greenfish_111",
+        "verified": false
+      }
+    ]
+  }
+}

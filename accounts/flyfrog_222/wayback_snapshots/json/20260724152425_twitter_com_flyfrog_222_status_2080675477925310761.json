@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2051212117005701120",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+          "id": "1557697378571808768",
+          "name": "Textile, Apparel & Luxury Good Business"
+        }
+      }
+    ],
+    "conversation_id": "2080675477925310761",
+    "created_at": "2026-07-24T15:24:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T16:24:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080675477925310761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1058856299012743169",
+          "start": 3,
+          "username": "Kli5m4n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080675477925310761",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 122
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080433951848407506",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kli5m4n: Meu sonho as pessoas pararem de colocar gênero em roupa. NÃO FAZZ O MENOR SENTIDO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051212117005701120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          }
+        ],
+        "conversation_id": "2080675477925310761",
+        "created_at": "2026-07-24T15:24:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T16:24:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080675477925310761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1058856299012743169",
+              "start": 3,
+              "username": "Kli5m4n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080675477925310761",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 122
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080433951848407506",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kli5m4n: Meu sonho as pessoas pararem de colocar gênero em roupa. NÃO FAZZ O MENOR SENTIDO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1058856299012743169",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          }
+        ],
+        "conversation_id": "2080433951848407506",
+        "created_at": "2026-07-23T23:24:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T00:24:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080433951848407506"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/acervocharts/s…",
+              "end": 105,
+              "expanded_url": "https://twitter.com/acervocharts/status/2080301910264041607",
+              "start": 82,
+              "url": "https://t.co/YnMrvikwkm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080433951848407506",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 8307,
+          "like_count": 816,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 122
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080301910264041607",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Meu sonho as pessoas pararem de colocar gênero em roupa. NÃO FAZZ O MENOR SENTIDO https://t.co/YnMrvikwkm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-04T08:10:29.000Z",
+        "description": "另一个我@Greenfish_111 /画@woyaosleep444",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 4,
+                "username": "Greenfish_111"
+              },
+              {
+                "end": 35,
+                "start": 21,
+                "username": "woyaosleep444"
+              }
+            ]
+          }
+        },
+        "id": "2051212117005701120",
+        "location": "Slient Hill",
+        "name": "ffffx",
+        "pinned_tweet_id": "2069288764808351825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051213133826682880/IGtHMrhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 22,
+          "like_count": 707,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 313
+        },
+        "url": "",
+        "username": "flyfrog_222",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-03T22:59:49.000Z",
+        "description": ":)",
+        "id": "1058856299012743169",
+        "name": "SEM IDEIA",
+        "pinned_tweet_id": "1059581008234889216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077053064519806976/qQCMPxNt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 982,
+          "following_count": 1000,
+          "like_count": 15182,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 1102
+        },
+        "url": "",
+        "username": "Kli5m4n",
+        "verified": false
+      }
+    ]
+  }
+}

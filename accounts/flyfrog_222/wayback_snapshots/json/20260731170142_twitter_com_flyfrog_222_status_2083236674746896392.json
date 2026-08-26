@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2051212117005701120",
+    "conversation_id": "2083073830810243543",
+    "created_at": "2026-07-31T17:01:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T18:01:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083236674746896392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1732356232290222080",
+          "start": 0,
+          "username": "8964_Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083236674746896392",
+    "in_reply_to_user_id": "1732356232290222080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083235749558960318",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964_Y 没有诶…我之前冻结过用ai跑了一个话术过了。但这次驳回了。求一个申请话术 …"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051212117005701120",
+        "conversation_id": "2083073830810243543",
+        "created_at": "2026-07-31T17:01:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T18:01:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083236674746896392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083236674746896392",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083235749558960318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 没有诶…我之前冻结过用ai跑了一个话术过了。但这次驳回了。求一个申请话术 …"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2083073830810243543",
+        "created_at": "2026-07-31T16:58:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T17:58:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083235749558960318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2051212117005701120",
+              "start": 0,
+              "username": "flyfrog_222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083235749558960318",
+        "in_reply_to_user_id": "2051212117005701120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083073830810243543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@flyfrog_222 宝宝你有那个申请话术吗？我有一份，之前我被冻结了然后我用那个话术我就解封了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-04T08:10:29.000Z",
+        "description": "互关寻回中…\n另一个我惨遭被害/画@woyaosleep444/好读友@Rfy1017",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 17,
+                "username": "woyaosleep444"
+              },
+              {
+                "end": 43,
+                "start": 35,
+                "username": "Rfy1017"
+              }
+            ]
+          }
+        },
+        "id": "2051212117005701120",
+        "location": "Slient Hill",
+        "name": "冰冷電子魚2.0",
+        "pinned_tweet_id": "2083142944769585540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083229597739655168/Bv_zQxkO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 62,
+          "like_count": 720,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 338
+        },
+        "url": "",
+        "username": "flyfrog_222",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "揍你哦，说真的｜绘画账号：@QY_art7｜只会过信任的人的账号@whxsa11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "QY_art7"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2078205908832891000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6729,
+          "following_count": 746,
+          "like_count": 25470,
+          "listed_count": 20,
+          "media_count": 1195,
+          "tweet_count": 17144
+        },
+        "url": "",
+        "username": "8964_Y",
+        "verified": false
+      }
+    ]
+  }
+}

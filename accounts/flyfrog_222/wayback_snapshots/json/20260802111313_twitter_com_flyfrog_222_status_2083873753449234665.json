@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2051212117005701120",
+    "conversation_id": "2083142944769585540",
+    "created_at": "2026-08-02T11:13:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T12:13:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083873753449234665"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1801977451674996736",
+          "start": 0,
+          "username": "YMSF0107"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083873753449234665",
+    "in_reply_to_user_id": "1801977451674996736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083871904725913771",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YMSF0107 msk太坏了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051212117005701120",
+        "conversation_id": "2083142944769585540",
+        "created_at": "2026-08-02T11:13:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T12:13:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083873753449234665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1801977451674996736",
+              "start": 0,
+              "username": "YMSF0107"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083873753449234665",
+        "in_reply_to_user_id": "1801977451674996736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083871904725913771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YMSF0107 msk太坏了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801977451674996736",
+        "conversation_id": "2083142944769585540",
+        "created_at": "2026-08-02T11:05:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T12:05:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083871904725913771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2051212117005701120",
+              "start": 0,
+              "username": "flyfrog_222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083871904725913771",
+        "in_reply_to_user_id": "2051212117005701120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083142944769585540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@flyfrog_222 我去原来你也"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-04T08:10:29.000Z",
+        "description": "互关寻回中…\n另一个我惨遭被害/画@woyaosleep444/好读友@Rfy1017",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 17,
+                "username": "woyaosleep444"
+              },
+              {
+                "end": 43,
+                "start": 35,
+                "username": "Rfy1017"
+              }
+            ]
+          }
+        },
+        "id": "2051212117005701120",
+        "location": "Slient Hill",
+        "name": "冰冷電子魚2.0",
+        "pinned_tweet_id": "2083142944769585540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083229597739655168/Bv_zQxkO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 92,
+          "like_count": 728,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 347
+        },
+        "url": "",
+        "username": "flyfrog_222",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-15T13:58:13.000Z",
+        "description": "我是小杜  1.0惨遭封锁  2.0紧随其后被限制",
+        "id": "1801977451674996736",
+        "name": "一起去天国吧3.0",
+        "pinned_tweet_id": "2068011211174867283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068010700530937859/m3-bIyg__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 50,
+          "like_count": 2141,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 213
+        },
+        "url": "",
+        "username": "YMSF0107",
+        "verified": false
+      }
+    ]
+  }
+}

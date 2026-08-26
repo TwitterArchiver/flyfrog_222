@@ -1,0 +1,121 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2051212117005701120",
+    "conversation_id": "2087232423620919387",
+    "created_at": "2026-08-11T17:39:23.000Z",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T18:39:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087232423620919387"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2087232423620919387",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "没看过音乐剧，刷到一个感兴趣的想去看看，结果点开大麦一看发现票全售罄了 气死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051212117005701120",
+        "conversation_id": "2087232423620919387",
+        "created_at": "2026-08-11T17:39:23.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T18:39:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087232423620919387"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087232423620919387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没看过音乐剧，刷到一个感兴趣的想去看看，结果点开大麦一看发现票全售罄了 气死我了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-04T08:10:29.000Z",
+        "description": "一瞥之下，过去与未来轰轰然同时并至\n画@woyaosleep444",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "woyaosleep444"
+              }
+            ]
+          }
+        },
+        "id": "2051212117005701120",
+        "is_identity_verified": false,
+        "location": "Slient Hill",
+        "most_recent_tweet_id": "2087232423620919387",
+        "name": "冰冷電子魚2.0",
+        "pinned_tweet_id": "2083142944769585540",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2051212117005701120/1785515604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083229597739655168/Bv_zQxkO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 146,
+          "like_count": 856,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 410
+        },
+        "url": "",
+        "username": "flyfrog_222",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

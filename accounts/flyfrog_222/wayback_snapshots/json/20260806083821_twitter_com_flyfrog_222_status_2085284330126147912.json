@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2051212117005701120",
+    "conversation_id": "2085271133985919043",
+    "created_at": "2026-08-06T08:38:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T09:38:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085284330126147912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1830934925769613334",
+          "start": 0,
+          "username": "Jinggebiezhuaw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085284330126147912",
+    "in_reply_to_user_id": "1830934925769613334",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085271133985919043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jinggebiezhuaw 同求。。。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2085271133985919043].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2085271133985919043",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2085271133985919043"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051212117005701120",
+        "conversation_id": "2085271133985919043",
+        "created_at": "2026-08-06T08:38:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T09:38:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085284330126147912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1830934925769613334",
+              "start": 0,
+              "username": "Jinggebiezhuaw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085284330126147912",
+        "in_reply_to_user_id": "1830934925769613334",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085271133985919043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jinggebiezhuaw 同求。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-04T08:10:29.000Z",
+        "description": "互关寻回中\n另一个我惨遭被害/画@woyaosleep444",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 16,
+                "username": "woyaosleep444"
+              }
+            ]
+          }
+        },
+        "id": "2051212117005701120",
+        "location": "Slient Hill",
+        "name": "冰冷電子魚2.0",
+        "pinned_tweet_id": "2083142944769585540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083229597739655168/Bv_zQxkO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 125,
+          "like_count": 783,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 370
+        },
+        "url": "",
+        "username": "flyfrog_222",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-03T11:45:04.000Z",
+        "description": "奥克萨娜（锁推养号中），黑长直性恋，精神分裂确诊，做导演的。非典型化学推，启灵物质狂信徒。化学物质使用咨询💊。神秘魔界大门入口：@Oksana222RC\n已婚 @Nonentity_xxx17",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 64,
+                "username": "Oksana222RC"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "Nonentity_xxx17"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oksana_132435",
+                "end": 23,
+                "expanded_url": "https://t.me/Oksana_132435",
+                "start": 0,
+                "url": "https://t.co/McxnWOqnfO"
+              }
+            ]
+          }
+        },
+        "id": "1830934925769613334",
+        "location": "Tokyo-to, Japan",
+        "name": "Oksana💊",
+        "pinned_tweet_id": "2064158937000358141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 3568,
+          "following_count": 286,
+          "like_count": 1961,
+          "listed_count": 5,
+          "media_count": 180,
+          "tweet_count": 847
+        },
+        "url": "https://t.co/McxnWOqnfO",
+        "username": "Jinggebiezhuaw",
+        "verified": true
+      }
+    ]
+  }
+}

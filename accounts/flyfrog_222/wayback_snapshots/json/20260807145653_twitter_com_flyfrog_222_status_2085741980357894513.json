@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2051212117005701120",
+    "conversation_id": "2085716785480015942",
+    "created_at": "2026-08-07T14:56:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T15:56:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085741980357894513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2064542363595493376",
+          "start": 0,
+          "username": "ToriNoelle003"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085741980357894513",
+    "in_reply_to_user_id": "2064542363595493376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085726549412876530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ToriNoelle003 我的天…好辛苦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051212117005701120",
+        "conversation_id": "2085716785480015942",
+        "created_at": "2026-08-07T14:56:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T15:56:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085741980357894513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2064542363595493376",
+              "start": 0,
+              "username": "ToriNoelle003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085741980357894513",
+        "in_reply_to_user_id": "2064542363595493376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085726549412876530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ToriNoelle003 我的天…好辛苦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2064542363595493376",
+        "conversation_id": "2085716785480015942",
+        "created_at": "2026-08-07T13:55:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T14:55:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085726549412876530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2051212117005701120",
+              "start": 0,
+              "username": "flyfrog_222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085726549412876530",
+        "in_reply_to_user_id": "2051212117005701120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085716785480015942",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@flyfrog_222 我姑姑懷孕期間得了肺結核，肺萎縮大半不能用藥就為了保孩子，還好最後母子都活了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-04T08:10:29.000Z",
+        "description": "互关寻回中\n另一个我惨遭被害/画@woyaosleep444",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 16,
+                "username": "woyaosleep444"
+              }
+            ]
+          }
+        },
+        "id": "2051212117005701120",
+        "location": "Slient Hill",
+        "name": "冰冷電子魚2.0",
+        "pinned_tweet_id": "2083142944769585540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083229597739655168/Bv_zQxkO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 129,
+          "like_count": 797,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 375
+        },
+        "url": "",
+        "username": "flyfrog_222",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-10T02:58:59.000Z",
+        "description": "“為遠去的鳥兒獻上革命的花朵。”\n（前世@DKR_World）同類互fo大歡迎！\n🚪52/101",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 20,
+                "username": "DKR_World"
+              }
+            ]
+          }
+        },
+        "id": "2064542363595493376",
+        "location": "東京暴動革命支部",
+        "name": "◎東亞躁鬱革委會",
+        "pinned_tweet_id": "2085343225972244522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064542992820830208/n5svD8S2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 135,
+          "like_count": 2122,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 294
+        },
+        "url": "",
+        "username": "ToriNoelle003",
+        "verified": false
+      }
+    ]
+  }
+}

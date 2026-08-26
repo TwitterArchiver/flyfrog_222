@@ -1,0 +1,121 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2051212117005701120",
+    "conversation_id": "2086759556013863252",
+    "created_at": "2026-08-10T10:20:22.000Z",
+    "display_text_range": [
+      0,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T11:20:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086759556013863252"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2086759556013863252",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我对麦当劳高额价格的反抗就是 每次点的时候都备注多要几包番茄酱。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051212117005701120",
+        "conversation_id": "2086759556013863252",
+        "created_at": "2026-08-10T10:20:22.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T11:20:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086759556013863252"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086759556013863252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我对麦当劳高额价格的反抗就是 每次点的时候都备注多要几包番茄酱。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-04T08:10:29.000Z",
+        "description": "一瞥之下，过去与未来轰轰然同时并至\n画@woyaosleep444",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "woyaosleep444"
+              }
+            ]
+          }
+        },
+        "id": "2051212117005701120",
+        "is_identity_verified": false,
+        "location": "Slient Hill",
+        "most_recent_tweet_id": "2086759556013863252",
+        "name": "冰冷電子魚2.0",
+        "pinned_tweet_id": "2083142944769585540",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2051212117005701120/1785515604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083229597739655168/Bv_zQxkO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 133,
+          "like_count": 841,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 390
+        },
+        "url": "",
+        "username": "flyfrog_222",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

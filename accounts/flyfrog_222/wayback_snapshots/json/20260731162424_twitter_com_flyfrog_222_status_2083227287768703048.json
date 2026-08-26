@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2051212117005701120",
+    "conversation_id": "2083227287768703048",
+    "created_at": "2026-07-31T16:24:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T17:24:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083227287768703048"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2083227287768703048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "家人刚进我房间跟我说话 然后我就胸闷心慌恶心想吐 总之就是难受 半天缓不过来 哎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051212117005701120",
+        "conversation_id": "2083227287768703048",
+        "created_at": "2026-07-31T16:24:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T17:24:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083227287768703048"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083227287768703048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "家人刚进我房间跟我说话 然后我就胸闷心慌恶心想吐 总之就是难受 半天缓不过来 哎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-04T08:10:29.000Z",
+        "description": "互关寻回中…\n另一个我惨遭被害/画@woyaosleep444/好读友@Rfy1017",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 17,
+                "username": "woyaosleep444"
+              },
+              {
+                "end": 43,
+                "start": 35,
+                "username": "Rfy1017"
+              }
+            ]
+          }
+        },
+        "id": "2051212117005701120",
+        "location": "Slient Hill",
+        "name": "冰冷電子魚2.0",
+        "pinned_tweet_id": "2083142944769585540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051213133826682880/IGtHMrhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 58,
+          "like_count": 717,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 336
+        },
+        "url": "",
+        "username": "flyfrog_222",
+        "verified": false
+      }
+    ]
+  }
+}

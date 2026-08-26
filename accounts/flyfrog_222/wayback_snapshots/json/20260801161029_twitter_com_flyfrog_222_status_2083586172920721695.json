@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2051212117005701120",
+    "conversation_id": "2083442331383177351",
+    "created_at": "2026-08-01T16:10:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T17:10:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083586172920721695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1730251057316737024",
+          "start": 0,
+          "username": "SRamirez66171"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083586172920721695",
+    "in_reply_to_user_id": "1730251057316737024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083442331383177351",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SRamirez66171 对啊对啊。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051212117005701120",
+        "conversation_id": "2083442331383177351",
+        "created_at": "2026-08-01T16:10:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T17:10:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083586172920721695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1730251057316737024",
+              "start": 0,
+              "username": "SRamirez66171"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083586172920721695",
+        "in_reply_to_user_id": "1730251057316737024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083442331383177351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SRamirez66171 对啊对啊。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730251057316737024",
+        "conversation_id": "2083442331383177351",
+        "created_at": "2026-08-01T06:38:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T07:38:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083442331383177351"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083442331383177351",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1962,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "如果只我号被封了我可能会难过，毕竟是我好不容易做起来的千fo账号，可是有千千万万个推友的号都被封了，昨天是他，今天是我，说不定明天就是你，我现在感受到的只有滔天的愤怒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-04T08:10:29.000Z",
+        "description": "互关寻回中…\n另一个我惨遭被害/画@woyaosleep444/好读友@Rfy1017",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 17,
+                "username": "woyaosleep444"
+              },
+              {
+                "end": 43,
+                "start": 35,
+                "username": "Rfy1017"
+              }
+            ]
+          }
+        },
+        "id": "2051212117005701120",
+        "location": "Slient Hill",
+        "name": "冰冷電子魚2.0",
+        "pinned_tweet_id": "2083142944769585540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083229597739655168/Bv_zQxkO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 75,
+          "like_count": 723,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 338
+        },
+        "url": "",
+        "username": "flyfrog_222",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-30T15:43:03.000Z",
+        "description": "大号已经不重要了，故事并没有结束/互fo寻回/od/备用号：@imqrmrtvom1lkt\ntg群：https://t.co/4ZSPOuDmhC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 30,
+                "username": "imqrmrtvom1lkt"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 73,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 50,
+                "url": "https://t.co/4ZSPOuDmhC"
+              }
+            ]
+          }
+        },
+        "id": "1730251057316737024",
+        "name": "洛5.0",
+        "pinned_tweet_id": "2083454884255297692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082718807173599232/iHJ1jUK8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 109,
+          "like_count": 280,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 123
+        },
+        "url": "",
+        "username": "SRamirez66171",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2051212117005701120",
+    "conversation_id": "2086798219041034741",
+    "created_at": "2026-08-10T12:55:01.000Z",
+    "display_text_range": [
+      13,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T13:55:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086798472842551693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1799795163843436544",
+          "start": 0,
+          "username": "doobeetioog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086798472842551693",
+    "in_reply_to_user_id": "1799795163843436544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086798219041034741",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@doobeetioog 嘿嘿…😽💚💚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051212117005701120",
+        "conversation_id": "2086798219041034741",
+        "created_at": "2026-08-10T12:55:01.000Z",
+        "display_text_range": [
+          13,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T13:55:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086798472842551693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1799795163843436544",
+              "start": 0,
+              "username": "doobeetioog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086798472842551693",
+        "in_reply_to_user_id": "1799795163843436544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086798219041034741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@doobeetioog 嘿嘿…😽💚💚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799795163843436544",
+        "conversation_id": "2086798219041034741",
+        "created_at": "2026-08-10T12:54:00.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T13:54:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086798219041034741"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/flyfrog_222/st…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/flyfrog_222/status/2083142944769585540",
+              "start": 5,
+              "url": "https://t.co/QW6L4WOntt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086798219041034741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083142944769585540",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "鱼鱼回家 https://t.co/QW6L4WOntt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-04T08:10:29.000Z",
+        "description": "一瞥之下，过去与未来轰轰然同时并至\n画@woyaosleep444",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "woyaosleep444"
+              }
+            ]
+          }
+        },
+        "id": "2051212117005701120",
+        "is_identity_verified": false,
+        "location": "Slient Hill",
+        "most_recent_tweet_id": "2086798492832522479",
+        "name": "冰冷電子魚2.0",
+        "pinned_tweet_id": "2083142944769585540",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2051212117005701120/1785515604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083229597739655168/Bv_zQxkO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 138,
+          "like_count": 847,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 399
+        },
+        "url": "",
+        "username": "flyfrog_222",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-09T13:26:33.000Z",
+        "description": "祝你没有痛苦地活着\n友達：@sysjf0 @Cheese_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 13,
+                "username": "sysjf0"
+              },
+              {
+                "end": 37,
+                "start": 21,
+                "username": "Cheese_Ghostfox"
+              }
+            ]
+          }
+        },
+        "id": "1799795163843436544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086798219041034741",
+        "name": "用户犬9706144444",
+        "pinned_tweet_id": "2086356570632601924",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078752213367930880/_vk9e0Pf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 602,
+          "following_count": 1054,
+          "like_count": 44427,
+          "listed_count": 1,
+          "media_count": 347,
+          "tweet_count": 6364
+        },
+        "url": "",
+        "username": "doobeetioog",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

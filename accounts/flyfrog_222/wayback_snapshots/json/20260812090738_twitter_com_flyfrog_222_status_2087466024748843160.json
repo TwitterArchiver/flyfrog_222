@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2051212117005701120",
+    "conversation_id": "2087466024748843160",
+    "created_at": "2026-08-12T09:07:38.000Z",
+    "display_text_range": [
+      0,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T10:07:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087466024748843160"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/isouko125/stat…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/isouko125/status/2087456246148587943",
+          "start": 15,
+          "url": "https://t.co/8PFqRBUrxS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087466024748843160",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087456246148587943",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "郁郁子重生归来o(^▽^)o https://t.co/8PFqRBUrxS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2087456233804726272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPgiYoQbAAAe9xu.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2087456233523675136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPgiYnNagAAmmFU.jpg",
+        "width": 944
+      },
+      {
+        "height": 1707,
+        "media_key": "3_2087456233527955456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPgiYnOb0AAvrU4.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2087456233519480832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPgiYnMagAAfjkU.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051212117005701120",
+        "conversation_id": "2087466024748843160",
+        "created_at": "2026-08-12T09:07:38.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T10:07:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087466024748843160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/isouko125/stat…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/isouko125/status/2087456246148587943",
+              "start": 15,
+              "url": "https://t.co/8PFqRBUrxS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087466024748843160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087456246148587943",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "郁郁子重生归来o(^▽^)o https://t.co/8PFqRBUrxS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087456233804726272",
+            "3_2087456233523675136",
+            "3_2087456233527955456",
+            "3_2087456233519480832"
+          ]
+        },
+        "author_id": "2087450430649544704",
+        "conversation_id": "2087456246148587943",
+        "created_at": "2026-08-12T08:28:46.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T09:28:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087456246148587943"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u2qVR7ya7C",
+              "end": 79,
+              "expanded_url": "https://x.com/isouko125/status/2087456246148587943/photo/1",
+              "media_key": "3_2087456233804726272",
+              "start": 56,
+              "url": "https://t.co/u2qVR7ya7C"
+            },
+            {
+              "display_url": "pic.x.com/u2qVR7ya7C",
+              "end": 79,
+              "expanded_url": "https://x.com/isouko125/status/2087456246148587943/photo/1",
+              "media_key": "3_2087456233523675136",
+              "start": 56,
+              "url": "https://t.co/u2qVR7ya7C"
+            },
+            {
+              "display_url": "pic.x.com/u2qVR7ya7C",
+              "end": 79,
+              "expanded_url": "https://x.com/isouko125/status/2087456246148587943/photo/1",
+              "media_key": "3_2087456233527955456",
+              "start": 56,
+              "url": "https://t.co/u2qVR7ya7C"
+            },
+            {
+              "display_url": "pic.x.com/u2qVR7ya7C",
+              "end": 79,
+              "expanded_url": "https://x.com/isouko125/status/2087456246148587943/photo/1",
+              "media_key": "3_2087456233519480832",
+              "start": 56,
+              "url": "https://t.co/u2qVR7ya7C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087456246148587943",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087456233804726272"
+          },
+          {
+            "media_key": "3_2087456233523675136"
+          },
+          {
+            "media_key": "3_2087456233527955456"
+          },
+          {
+            "media_key": "3_2087456233519480832"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "こんにちは、また帰ってきました。昔の友達を取り戻したいと思っています。\n(⸝⸝⸝&gt;`﹏ˊ&lt;⸝⸝⸝) https://t.co/u2qVR7ya7C"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-04T08:10:29.000Z",
+        "description": "一瞥之下，过去与未来轰轰然同时并至\n画@woyaosleep444",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "woyaosleep444"
+              }
+            ]
+          }
+        },
+        "id": "2051212117005701120",
+        "is_identity_verified": false,
+        "location": "Slient Hill",
+        "most_recent_tweet_id": "2087466024748843160",
+        "name": "冰冷電子魚2.0",
+        "pinned_tweet_id": "2083142944769585540",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2051212117005701120/1785515604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083229597739655168/Bv_zQxkO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 150,
+          "like_count": 864,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 414
+        },
+        "url": "",
+        "username": "flyfrog_222",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-12T08:07:29.000Z",
+        "description": "イソウコって呼んでくれればいいよ！主に日常の出来事や好きなもの、そして少しネガティブな気持ちも混じっています，\n日本語/English/한국어",
+        "id": "2087450430649544704",
+        "is_identity_verified": false,
+        "location": "🚪100",
+        "most_recent_tweet_id": "2087462507095244990",
+        "name": "isouko",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087451503644778496/9wapZlZl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 3,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 6
+        },
+        "url": "",
+        "username": "isouko125",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

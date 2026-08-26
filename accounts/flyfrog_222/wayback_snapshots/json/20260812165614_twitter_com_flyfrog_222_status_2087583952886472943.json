@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2051212117005701120",
+    "conversation_id": "2087539603385499955",
+    "created_at": "2026-08-12T16:56:14.000Z",
+    "display_text_range": [
+      9,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T17:56:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087583952886472943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1991066716085030912",
+          "start": 0,
+          "username": "Rfy1017"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087583952886472943",
+    "in_reply_to_user_id": "1991066716085030912",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087564301657600226",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rfy1017 😼😼😼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051212117005701120",
+        "conversation_id": "2087539603385499955",
+        "created_at": "2026-08-12T16:56:14.000Z",
+        "display_text_range": [
+          9,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T17:56:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087583952886472943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1991066716085030912",
+              "start": 0,
+              "username": "Rfy1017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087583952886472943",
+        "in_reply_to_user_id": "1991066716085030912",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087564301657600226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rfy1017 😼😼😼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991066716085030912",
+        "conversation_id": "2087539603385499955",
+        "created_at": "2026-08-12T15:38:09.000Z",
+        "display_text_range": [
+          13,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T16:38:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087564301657600226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2051212117005701120",
+              "start": 0,
+              "username": "flyfrog_222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087564301657600226",
+        "in_reply_to_user_id": "2051212117005701120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087539603385499955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@flyfrog_222 好耶🎊再也不需要用阿片提升精力了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-04T08:10:29.000Z",
+        "description": "一瞥之下，过去与未来轰轰然同时并至\n画@woyaosleep444",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "woyaosleep444"
+              }
+            ]
+          }
+        },
+        "id": "2051212117005701120",
+        "is_identity_verified": false,
+        "location": "Slient Hill",
+        "most_recent_tweet_id": "2087583952886472943",
+        "name": "冰冷電子魚2.0",
+        "pinned_tweet_id": "2083142944769585540",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2051212117005701120/1785515604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083229597739655168/Bv_zQxkO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 153,
+          "like_count": 871,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 423
+        },
+        "url": "",
+        "username": "flyfrog_222",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-19T08:51:25.000Z",
+        "description": "本人男 side🏳️‍🌈 双相 ADHD lgbtq欢迎交友\n神必化学研究中…….\n最爱的好毒友❤️‍🔥💉@Greenfish_111                         @flyfrog_222",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 53,
+                "username": "Greenfish_111"
+              },
+              {
+                "end": 104,
+                "start": 92,
+                "username": "flyfrog_222"
+              }
+            ]
+          }
+        },
+        "id": "1991066716085030912",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087564301657600226",
+        "name": "Heeseo.R",
+        "pinned_tweet_id": "2082512624802046345",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1991066716085030912/1784816828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036413497047916548/4XE_ZRTW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 91,
+          "like_count": 155,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 172
+        },
+        "url": "",
+        "username": "Rfy1017",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,7 +1,7 @@
 {
-  "name": "ffffx",
+  "name": "冰冷電子魚2.0",
   "username": "@flyfrog_222",
-  "bio": "另一个我@Greenfish_111 /画@woyaosleep444",
+  "bio": "一瞥之下，过去与未来轰轰然同时并至\n画@woyaosleep444",
   "location": "Slient Hill",
   "link": "",
   "avatar": "avatar/avatar.jpg",
@@ -10,16 +10,11 @@
   "bio_entities": {
     "mentions": [
       {
-        "end": 18,
-        "start": 4,
-        "username": "Greenfish_111"
-      },
-      {
-        "end": 35,
-        "start": 21,
+        "end": 33,
+        "start": 19,
         "username": "woyaosleep444"
       }
     ]
   },
-  "_avatar_source": "https://pbs.twimg.com/profile_images/2051213133826682880/IGtHMrhi_normal.jpg"
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2083229597739655168/Bv_zQxkO_normal.jpg"
 }
